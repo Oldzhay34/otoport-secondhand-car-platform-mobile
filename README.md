@@ -1,17 +1,31 @@
-# otoport_mobile
+Otoport – Second Hand Car Platform
+Description
+Otoport is a second-hand car filtering and communication platform designed to simplify interaction between admins, dealers and customers.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Architecture & Principles
+Object-Oriented Programming (OOP)
+Clean and multi-layer architecture
+SOLID principles
+Role-based system design
+JWT Autherization
+Cookies
+User Roles
+Admin
+Store
+Client - Guest (Customer)
+Features
+Car listing and filtering
+Store and vehicle management
+Communication between dealers and customers
+Scalable and maintainable backend structure
+Technologies
+Java
+ORM
+JPA Hibernate
+Meaven
+MySQL
+Elasticsearch
+Caching
+Flutter
+Docker
+Kubernates
