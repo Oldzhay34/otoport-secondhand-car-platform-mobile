@@ -1,0 +1,322 @@
+{
+  "brands": [
+    {
+      "brand": "Askam",
+      "models": [
+        {
+          "model": "Fargo Fora",
+          "engines": [
+            { "engine": "2.5 CDI", "packages": ["Uzun Şasi"] }
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "BMC",
+      "models": [
+        {
+          "model": "Levend",
+          "engines": [
+            { "engine": "3.0", "packages": ["Panel Van"] }
+          ]
+        },
+        {
+          "model": "Megastar",
+          "variants": [
+            { "variant": "290 V Kombi", "note": "tek paket" },
+            { "variant": "290 V Kombi Van", "note": "tek paket" },
+            { "variant": "290 V Panelvan", "note": "tek paket" },
+            { "variant": "360 VH Panelvan", "note": "tek paket" },
+            { "variant": "360 V Panelvan", "note": "tek paket" },
+            { "variant": "400 VH Panelvan", "note": "tek paket" }
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Chery",
+      "models": [
+        {
+          "model": "Taxim",
+          "engines": [
+            { "engine": "1.5", "packages": ["Lusso"] },
+            { "engine": "1.6", "note": "tek paket" }
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Chevrolet",
+      "models": [
+        {
+          "model": "Express",
+          "engines": [
+            { "engine": "5.3 L V8 SFI", "note": "tek paket" },
+            { "engine": "5.7", "note": "tek paket" }
+          ]
+        },
+        {
+          "model": "Trans Sport",
+          "engines": [{ "engine": "3.4", "note": "tek paket" }]
+        },
+        {
+          "model": "G Serisi",
+          "variants": [
+            { "variant": "G20", "note": "tek model" },
+            { "variant": "G30", "note": "tek model" }
+          ]
+        },
+        {
+          "model": "Uplander",
+          "engines": [{ "engine": "3.5 V6", "note": "tek paket" }]
+        }
+      ]
+    },
+    {
+      "brand": "Chrysler",
+      "models": [
+        {
+          "model": "Grand Voyager",
+          "engines": [
+            { "engine": "2.5 CRD", "packages": ["LX"] },
+            { "engine": "2.5 TD", "packages": ["LE", "SE"] },
+            { "engine": "2.8 CRD", "packages": ["Limited", "LX", "SE"] },
+            { "engine": "3.3", "packages": ["LE", "Limited", "LX", "SE"] },
+            { "engine": "3.8", "packages": ["LE", "LX"] }
+          ]
+        },
+        {
+          "model": "Town & Country",
+          "engines": [{ "engine": "3.8", "note": "tek paket" }]
+        },
+        {
+          "model": "Voyager",
+          "engines": [
+            { "engine": "2.5 CRD", "packages": ["SE"] },
+            { "engine": "2.5 TD", "packages": ["SE"] },
+            { "engine": "2.8 CRD", "packages": ["LX"] },
+            { "engine": "3.0", "packages": ["LE"] }
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Citroen",
+      "models": [
+        {
+          "model": "Berlingo",
+          "engines": [
+            { "engine": "1.2 PureTech", "packages": ["Feel"] },
+            { "engine": "1.4", "packages": ["Multispace"] },
+
+            {
+              "engine": "1.5 BlueHDi",
+              "packages": [
+                "Standart",
+                "Feel",
+                "Feel Bold",
+                "Feel Stil",
+                "Max",
+                "Plus",
+                "Shine",
+                "Shine Bold",
+                "You"
+              ]
+            },
+
+            { "engine": "1.6 BlueHDi", "packages": ["Standart", "Feel", "Maxi", "Selection", "Shine", "Combi"] },
+            { "engine": "1.6 HDi", "packages": ["Combi Silverline", "Combi SX", "Combi X", "Family", "Maxi", "Multispace", "Selection", "SX", "X"] },
+
+            { "engine": "1.9 D", "packages": ["Standart", "Combi X", "FG", "Multispace", "SX", "X"] },
+
+            { "engine": "2.0 HDi", "packages": ["Standart", "Combi X", "Multispace"] }
+          ]
+        },
+        {
+          "model": "Jumper",
+          "variants": [
+            { "variant": "2.0 HDi", "note": "tek paket" },
+            { "variant": "2.0 BlueHDi L4H2", "note": "tek paket" },
+            { "variant": "2.2 BlueHDi", "note": "tek paket" },
+            { "variant": "2.2 HDi L3H2", "note": "tek paket" },
+            { "variant": "2.2 HDi L4H2", "note": "tek paket" },
+            { "variant": "2.5 TDI", "note": "tek paket" },
+            { "variant": "35 LH", "note": "tek paket" }
+          ]
+        },
+        {
+          "model": "Jumpy",
+          "variants": [
+            { "variant": "1.5 BlueHDi", "note": "tek paket" },
+            { "variant": "1.5 BlueHDi Business", "note": "tek paket" },
+            { "variant": "1.5 BlueHDi Space", "note": "tek paket" },
+            { "variant": "1.5 BlueHDi Spacetourer", "note": "tek paket" },
+
+            { "variant": "1.6 BlueHDi Space", "note": "tek paket" },
+            { "variant": "1.6 BlueHDi Spacetourer", "note": "tek paket" },
+            { "variant": "1.6 HDi", "note": "tek paket" },
+            { "variant": "1.6 HDi Combi", "note": "tek paket" },
+
+            { "variant": "1.9 D Confort", "note": "tek paket" },
+            { "variant": "1.9 TD Confort", "note": "tek paket" },
+
+            { "variant": "2.0 BlueHDi", "note": "tek paket" },
+            { "variant": "2.0 BlueHDi Cityvan", "note": "tek paket" },
+            { "variant": "2.0 BlueHDi Spacetourer", "note": "tek paket" },
+
+            { "variant": "2.0 HDi", "note": "tek paket" },
+            { "variant": "2.0 HDi Combi", "note": "tek paket" },
+            { "variant": "2.0 HDi Confort", "note": "tek paket" }
+          ]
+        },
+        {
+          "model": "Nemo",
+          "variants": [
+            { "variant": "1.3 HDi", "note": "tek paket" },
+            { "variant": "1.3 HDi X", "note": "tek paket" },
+            { "variant": "1.4 HDi", "note": "tek paket" },
+            { "variant": "1.4 HDi FT", "note": "tek paket" },
+            { "variant": "1.4 HDi X", "note": "tek paket" },
+            { "variant": "1.4 HDi X Pack", "note": "tek paket" },
+
+            { "variant": "Combi 1.3 HDi SX Plus", "note": "tek paket" },
+            { "variant": "Combi 1.3 HDi SX Plus Vizyon", "note": "tek paket" },
+            { "variant": "Combi 1.3 HDi X", "note": "tek paket" },
+
+            { "variant": "Combi 1.4 HDI", "note": "tek paket" },
+            { "variant": "Combi 1.4 HDI SX", "note": "tek paket" },
+            { "variant": "Combi 1.4 HDI SX Sensodrive", "note": "tek paket" },
+            { "variant": "Combi 1.4 HDi SX Plus", "note": "tek paket" },
+            { "variant": "Combi 1.4 HDi SX Plus Vizyon", "note": "tek paket" },
+            { "variant": "Combi 1.4 HDi X", "note": "tek paket" },
+            { "variant": "Combi 1.4 HDi XTR Plus", "note": "tek paket" }
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Dacia",
+      "models": [
+        {
+          "model": "Dokker",
+          "engines": [
+            { "engine": "1.5 BlueDCI", "packages": ["Ambiance"] },
+            { "engine": "1.5 dCi", "packages": ["Ambiance", "Stepway"] },
+            { "engine": "1.6 ECO-G", "packages": ["Ambiance"] },
+            { "engine": "1.6 MPI", "packages": ["Ambiance"] }
+          ]
+        },
+        {
+          "model": "Logan",
+          "variants": [
+            { "variant": "1.5 dCi Van Ambiance", "note": "tek paket" },
+            { "variant": "1.6 MCV", "note": "tek paket" }
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Daewoo",
+      "models": [
+        {
+          "model": "Damas",
+          "variants": [{ "variant": "Damas", "note": "tek model" }]
+        },
+        {
+          "model": "Lublin",
+          "engines": [
+            { "engine": "2.5 D", "packages": ["Standart Van"] }
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Daihatsu",
+      "models": [
+        {
+          "model": "Hi-Jet",
+          "engines": [
+            { "engine": "1.0", "note": "tek paket" },
+            { "engine": "1.3", "note": "tek paket" }
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "DFM",
+      "models": [
+        {
+          "model": "Van",
+          "engines": [
+            { "engine": "1.1", "packages": ["Van"] },
+            { "engine": "1.3", "packages": ["Van"] }
+          ]
+        },
+        {
+          "model": "Succe",
+          "engines": [
+            { "engine": "1.6", "note": "tek paket" }
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "DFSK",
+      "models": [
+        {
+          "model": "C31",
+          "variants": [{ "variant": "Pro", "note": "tek paket" }]
+        },
+        {
+          "model": "EC35",
+          "variants": [{ "variant": "Pro", "note": "tek paket" }]
+        },
+        {
+          "model": "Mega Van",
+          "engines": [{ "engine": "1.5", "note": "tek paket" }]
+        }
+      ]
+    },
+    {
+      "brand": "Dodge",
+      "models": [
+        {
+          "model": "Grand Caravan",
+          "variants": [
+            { "variant": "LE 3.3", "note": "tek paket" },
+            { "variant": "Wagon 3.0", "note": "tek paket" }
+          ]
+        },
+        {
+          "model": "Ram",
+          "trims": ["2500"]
+        }
+      ]
+    },
+    {
+      "brand": "FAW",
+      "models": [
+        {
+          "model": "Actis",
+          "variants": [{ "variant": "V70", "note": "tek paket" }]
+        },
+        {
+          "model": "CA5024",
+          "variants": [
+            { "variant": "A2", "note": "tek paket" },
+            { "variant": "A4", "note": "tek paket" }
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Fest",
+      "models": [
+        {
+          "model": "E-Box",
+          "variants": [{ "variant": "M", "note": "tek paket" }]
+        }
+      ]
+    }
+  ]
+}

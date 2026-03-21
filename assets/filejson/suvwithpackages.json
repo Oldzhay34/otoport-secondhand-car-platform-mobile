@@ -1,0 +1,1624 @@
+{
+  "brands": [
+    {
+      "brand": "Acura",
+      "models": [
+        {
+          "model": "MDX",
+          "engines": [
+            { "engine": "3.5" }
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Alfa Romeo",
+      "models": [
+        {
+          "model": "Junior Elettiricia",
+          "variants": [
+            { "variant": "Elettirica", "packages": ["Elettirica", "Speciale"] }
+          ]
+        },
+        {
+          "model": "Junior Ibrida",
+          "engines": [
+            { "engine": "1.2 Hybrit", "packages": ["1.2 Hybrit", "Speciale"] }
+          ]
+        },
+        {
+          "model": "Stelvio",
+          "engines": [
+            { "engine": "2.0" },
+            { "engine": "2.0 T" }
+          ]
+        },
+        {
+          "model": "Tonale",
+          "engines": [
+            { "engine": "1.3 Hybrit", "packages": ["Veloce"] },
+            { "engine": "1.5 Hybrit", "packages": ["Edizione Speciale", "Ti", "Tributo", "Veloce"] },
+            { "engine": "1.6D", "packages": ["Speciale", "Sprint", "Ti"] }
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Aston Martin",
+      "models": [
+        {
+          "model": "DBX",
+          "variants": [
+            { "variant": "DBX V8" },
+            { "variant": "DBX 707" }
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Audi",
+      "models": [
+        {
+          "model": "E-Tron",
+          "engines": [
+            { "engine": "55 Quattro" }
+          ]
+        },
+        {
+          "model": "E-Tron Sportback",
+          "engines": [
+            { "engine": "55 Quattro", "packages": ["Advanced", "S Line"] }
+          ]
+        },
+        {
+          "model": "Q2",
+          "engines": [
+            { "engine": "30 TDI", "packages": ["Desing", "Sport"] },
+            { "engine": "30 TFSI", "packages": ["Desing", "Sport"] },
+            { "engine": "35 TFSI", "packages": ["Advanced", "Desing", "Sport"] },
+            { "engine": "1.0 TFSI", "packages": ["Desing", "Dynamic", "Sport"] },
+            { "engine": "1.4 TFIS", "packages": ["Desing", "Dynamic", "Sport"] },
+            { "engine": "1.6 TDI", "packages": ["Desing", "Dynamic", "Sport"] }
+          ]
+        },
+        {
+          "model": "Q3",
+          "engines": [
+            { "engine": "35 TFSI", "packages": ["Advanced", "S Line"] },
+            { "engine": "1.4 TFSI" },
+            { "engine": "1.5 TFSI" },
+            { "engine": "2.0 TDI" }
+          ]
+        },
+        {
+          "model": "Q3 Sportback",
+          "engines": [
+            { "engine": "35 TFSI", "packages": ["S Line"] },
+            { "engine": "45 TFSI", "packages": ["E-Tron"] }
+          ]
+        },
+        {
+          "model": "Q4 E-Tron",
+          "variants": [
+            { "variant": "40 e-Tron" },
+            { "variant": "45 e-Tron" },
+            { "variant": "55 e-Tron" }
+          ]
+        },
+        {
+          "model": "Q4 Sportback",
+          "variants": [
+            { "variant": "40 e-Tron" },
+            { "variant": "45 e-Tron" },
+            { "variant": "55 e-Tron" }
+          ]
+        },
+        {
+          "model": "Q5",
+          "engines": [
+            { "engine": "40 TDI", "packages": ["Quattro Advanced", "Quattro Desing", "Quattro S Line", "Quattro Sport"] },
+            { "engine": "45 TFSI", "packages": ["Quattro Advanced", "Quattro S Line"] },
+            { "engine": "2.0 TDI Quattro" },
+            { "engine": "2.0 TDI Quattro Desing" },
+            { "engine": "2.0 TDI Quattro Dynamic" },
+            { "engine": "2.0 TDI Quattro Sport" },
+            { "engine": "2.0 TFSI Quattro" },
+            { "engine": "3.0 TDI Quattro", "packages": ["SQ5"] }
+          ]
+        },
+        {
+          "model": "Q5 Sportback",
+          "engines": [
+            { "engine": "40 TDI", "packages": ["Advanced"] },
+            { "engine": "45 TFSI", "packages": ["S Line"] }
+          ]
+        },
+        {
+          "model": "Q6 E-Tron",
+          "engines": [
+            { "engine": "55 Quattro" }
+          ]
+        },
+        {
+          "model": "Q6 E-Tron Sportback",
+          "variants": [
+            { "variant": "Standart" }
+          ]
+        },
+        {
+          "model": "Q7",
+          "engines": [
+            { "engine": "45 TFSI" },
+            { "engine": "50 TDI", "packages": ["Quattro S Line"] },
+            { "engine": "55 TFSI", "packages": ["S Line"] },
+            { "engine": "2.0 TFSI Quattro" },
+            { "engine": "3.0 TDI Quattro" },
+            { "engine": "3.0 TFSI Quattro" },
+            { "engine": "4.2 FS Quattro" },
+            { "engine": "4.2 TDI Quattro" }
+          ]
+        },
+        {
+          "model": "Q8",
+          "variants": [
+            { "variant": "45 TFSI Quattro" },
+            { "variant": "50 TDI Quattro" },
+            { "variant": "55 TFSI e-Quattro" },
+            { "variant": "55 TFSI Quattro" },
+            { "variant": "SQ8" }
+          ]
+        },
+        {
+          "model": "Q8 E-Tron",
+          "engines": [
+            { "engine": "50 Quattro", "packages": ["S Line"] },
+            { "engine": "55 Quattro", "packages": ["Advanced", "S Line"] }
+          ]
+        },
+        {
+          "model": "Q8 E-Tron Sportback",
+          "engines": [
+            { "engine": "55 Quattro", "packages": ["Advanced", "S Line"] }
+          ]
+        },
+        {
+          "model": "RS Q8",
+          "engines": [
+            { "engine": "4.0 TFSI" }
+          ]
+        },
+        {
+          "model": "SQ7",
+          "engines": [
+            { "engine": "4.0 TDI Quattro" },
+            { "engine": "4.0 TFSI Quattro" }
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Bentley",
+      "models": [
+        {
+          "model": "Bentayga",
+          "engines": [
+            { "engine": "4.0 Diesel" },
+            { "engine": "4.0 V8" }
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "BMW",
+      "models": [
+        {
+          "model": "iX",
+          "variants": [
+            { "variant": "M60" },
+            { "variant": "xDrive40", "packages": ["First Edition Essence", "First Edition Sport"] },
+            { "variant": "xDrive50" },
+            { "variant": "xDrive60", "packages": ["M Sport"] }
+          ]
+        },
+        {
+          "model": "iX1",
+          "variants": [
+            { "variant": "eDrive20", "packages": ["M Sport", "Sport Line", "X Line"] },
+            { "variant": "xDrive30", "packages": ["M Sport", "X Line"] }
+          ]
+        },
+        {
+          "model": "iX2",
+          "variants": [
+            { "variant": "eDrive20" },
+            { "variant": "M Sport" },
+            { "variant": "Sport Line" }
+          ]
+        },
+        {
+          "model": "iX3",
+          "variants": [
+            { "variant": "eDrive20" },
+            { "variant": "eDrive30" }
+          ]
+        },
+        {
+          "model": "X1",
+          "variants": [
+            {
+              "variant": "16d sDrive",
+              "packages": [
+                "M Sport",
+                "Premium Line",
+                "Prestige",
+                "Sport Line",
+                "Ultimate Edition M Sport",
+                "Ultimate Edition X-Line",
+                "X Line"
+              ]
+            },
+            {
+              "variant": "16i sDrive",
+              "packages": ["Comfort", "Luxury", "M Sport", "Sport Line", "X Line"]
+            },
+            {
+              "variant": "18i sDrive",
+              "packages": [
+                "M Sport",
+                "Premium Line",
+                "Prestige",
+                "Sport Line",
+                "Ultimate Edition M Sport",
+                "Ultimate Edition X-Line",
+                "X Line"
+              ]
+            },
+            { "variant": "20d sDrive", "packages": ["Comfort", "M Sport"] },
+            { "variant": "20d xDrive", "packages": ["Advantage", "Comfort", "M Sport", "Premium", "X Line"] },
+            { "variant": "20i sDrive", "packages": ["M Sport", "X Line"] },
+            { "variant": "23d xDrive" },
+            { "variant": "xDrive25e", "packages": ["M Sport", "X Line"] },
+            { "variant": "xDrive30e", "packages": ["M Sport"] },
+            { "variant": "M35i xDrive", "packages": ["Standart", "M Sport"] }
+          ]
+        },
+        {
+          "model": "X2",
+          "variants": [
+            { "variant": "16d sDrive", "packages": ["M Sport", "M Sport X", "Special Edition M Sport X"] },
+            { "variant": "18i sDrive", "packages": ["M Sport", "M Sport X", "Premium Line", "Special Edition M Sport", "Special Edition M Sport X"] },
+            { "variant": "20d xDrive", "packages": ["M Sport", "M Sport X"] },
+            { "variant": "20i sDrive", "packages": ["M Sport"] },
+            { "variant": "M35i xDrive", "packages": ["M Sport"] }
+          ]
+        },
+        {
+          "model": "X3",
+          "variants": [
+            { "variant": "20", "packages": ["M Sport", "X-Line"] },
+            { "variant": "20d", "packages": ["20d", "Premium"] },
+            {
+              "variant": "20d xDrive",
+              "packages": [
+                "2.0d xDrive",
+                "Comfort",
+                "Exclusive",
+                "First Edition",
+                "M Plus",
+                "M Sport",
+                "Premium",
+                "Prestige",
+                "X Line",
+                "X Plus"
+              ]
+            },
+            {
+              "variant": "20i sDrive",
+              "packages": [
+                "20i sDrive",
+                "Exclusive",
+                "First Edition Luxury",
+                "First Edition M",
+                "First Edition X",
+                "Luxury Line",
+                "M Plus",
+                "M Sport",
+                "Prestige",
+                "X Line",
+                "X Plus"
+              ]
+            },
+            { "variant": "25i" },
+            { "variant": "30" },
+            { "variant": "30d" },
+            { "variant": "30i xDrive" },
+            { "variant": "30sd" },
+            { "variant": "M40i" }
+          ]
+        },
+        {
+          "model": "X4",
+          "variants": [
+            { "variant": "20d xDrive", "packages": ["Standart", "Exclusive", "M Sport", "xLine"] },
+            { "variant": "30d xDrive", "packages": ["Standart"] },
+            { "variant": "35d xDrive", "packages": ["M Sport"] }
+          ]
+        },
+        {
+          "model": "X5",
+          "variants": [
+            { "variant": "25d xDrive", "packages": ["25d xDrive", "Excellence", "M Excellence", "M Sport", "Premium", "Premium Line", "Prestige", "Pure", "Pure Luxury"] },
+            { "variant": "30d" },
+            { "variant": "30d xDrive", "packages": ["30d xDrive", "Exclusive", "Family", "M Sport", "Premium"] },
+            { "variant": "30i" },
+            { "variant": "30sd" },
+            { "variant": "30si" },
+            { "variant": "35d xDrive" },
+            { "variant": "40d xDrive" },
+            { "variant": "40e xDrive", "packages": ["Premium", "Pure"] },
+            { "variant": "44" },
+            { "variant": "44 M" },
+            { "variant": "46is" },
+            { "variant": "48i" },
+            { "variant": "M50d xDrive" }
+          ]
+        },
+        {
+          "model": "X6",
+          "variants": [
+            { "variant": "30d xDrive", "packages": ["30d xDrive", "M Sport"] },
+            { "variant": "35d xDrive" },
+            { "variant": "35i xDrive" },
+            { "variant": "40d xDrive", "packages": ["40d xDrive", "M Sport", "Pure Extravagance", "Pure Luxury", "Sport"] },
+            { "variant": "40i xDrive" },
+            { "variant": "44i M xDrive" },
+            { "variant": "44 M" },
+            { "variant": "50d M xDrive" },
+            { "variant": "50i xDrive" }
+          ]
+        },
+        {
+          "model": "X7",
+          "variants": [
+            { "variant": "40d xDrive" },
+            { "variant": "40i xDrive" },
+            { "variant": "M60i" }
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "BYD",
+      "models": [
+        {
+          "model": "Atto 2",
+          "variants": [
+            { "variant": "Boost" }
+          ]
+        },
+        {
+          "model": "Atto 3 EV",
+          "variants": [
+            { "variant": "Design" }
+          ]
+        },
+        {
+          "model": "Sealion 7",
+          "variants": [
+            { "variant": "Desing" }
+          ]
+        },
+        {
+          "model": "Seal U DM-i",
+          "engines": [
+            { "engine": "1.5 Phev", "packages": ["Desing"] }
+          ]
+        },
+        {
+          "model": "Seal U EV",
+          "variants": [
+            { "variant": "Desing" }
+          ]
+        },
+        {
+          "model": "Tang",
+          "variants": [
+            { "variant": "Flagship" }
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Cadillac",
+      "models": [
+        {
+          "model": "Escalade",
+          "engines": [
+            { "engine": "3.0 V6" },
+            { "engine": "5.7 V8" },
+            { "engine": "6.0 V8" },
+            { "engine": "6.0 V8 Hybrid" },
+            { "engine": "6.2 V8" }
+          ]
+        },
+        {
+          "model": "SRX",
+          "engines": [
+            { "engine": "3.6 V6" },
+            { "engine": "4.6 V8" }
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Chery",
+      "models": [
+        {
+          "model": "Omoda 5",
+          "engines": [
+            { "engine": "1.6 T-GDI", "packages": ["Comfort", "Excellent", "Luxury"] }
+          ]
+        },
+        {
+          "model": "Omoda 5 Pro",
+          "engines": [
+            { "engine": "1.6 T-GDI", "packages": ["Exceptional", "Intelligent", "Vision"] }
+          ]
+        },
+        {
+          "model": "Tiggo 3",
+          "engines": [
+            { "engine": "1.6", "packages": ["Acteco Forza", "Acteco Lusso", "Lusso Supercharger"] },
+            { "engine": "2.0", "packages": ["Lusso"] }
+          ]
+        },
+        {
+          "model": "Tiggo 7",
+          "engines": [
+            { "engine": "1.6 TGDI", "packages": ["Prestige 4x2", "Prestige 4x4"] }
+          ]
+        },
+        {
+          "model": "Tiggo 7 Pro",
+          "engines": [
+            { "engine": "1.6 TGDI", "packages": ["Avantgarde", "Comfort", "Excellent", "Luxury"] }
+          ]
+        },
+        {
+          "model": "Tiggo 7 Pro Max",
+          "engines": [
+            { "engine": "1.6 T-GDI", "packages": ["Exceptional", "Exceptional Black Edition", "Intelligent"] }
+          ]
+        },
+        {
+          "model": "Tiggo 8",
+          "engines": [
+            { "engine": "1.6 TGDI", "packages": ["Prestige"] }
+          ]
+        },
+        {
+          "model": "Tiggo 8 Pro",
+          "engines": [
+            { "engine": "1.6 TGDI", "packages": ["Avantgarde", "Excellent", "Luxury"] }
+          ]
+        },
+        {
+          "model": "Tiggo 8 Pro Max",
+          "engines": [
+            { "engine": "1.6 T-GDI", "packages": ["Exceptional", "Intelligent"] }
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Chevrolet",
+      "models": [
+        {
+          "model": "Avalanche",
+          "engines": [
+            { "engine": "5.3" }
+          ]
+        },
+        {
+          "model": "Blazer",
+          "variants": [
+            { "variant": "4.2 LT" },
+            { "variant": "4.2 LTZ" },
+            { "variant": "4.3" }
+          ]
+        },
+        {
+          "model": "Captiva",
+          "engines": [
+            { "engine": "2.0 D", "packages": ["LT Base", "LT High", "LT High Sport", "LT Medium", "LTZ"] },
+            { "engine": "2.4", "packages": ["LS"] },
+            { "engine": "3.2", "packages": ["LTZ"] }
+          ]
+        },
+        {
+          "model": "Equinox",
+          "variants": [
+            { "variant": "3.4 LT" },
+            { "variant": "3.6 LTZ" }
+          ]
+        },
+        {
+          "model": "Silverado",
+          "engines": [
+            { "engine": "2.7" },
+            { "engine": "3.0 L" },
+            { "engine": "5.3" },
+            { "engine": "5.7" },
+            { "engine": "6.6 Diesel" }
+          ]
+        },
+        {
+          "model": "Suburban",
+          "engines": [
+            { "engine": "5.3" },
+            { "engine": "6.0" },
+            { "engine": "7.4" }
+          ]
+        },
+        {
+          "model": "Tahoe",
+          "engines": [
+            { "engine": "3.0" },
+            { "engine": "5.3" },
+            { "engine": "5.7" },
+            { "engine": "6.0" },
+            { "engine": "6.2" }
+          ]
+        },
+        {
+          "model": "Trax",
+          "variants": [
+            { "variant": "1.4 LS" },
+            { "variant": "1.4 LT" },
+            { "variant": "1.6 LS" },
+            { "variant": "1.6 LT" }
+          ]
+        },
+        {
+          "model": "HHR",
+          "variants": [
+            { "variant": "SS" }
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Chrysler",
+      "models": [
+        {
+          "model": "Pacifica",
+          "engines": [
+            { "engine": "3.5 L" },
+            { "engine": "3.6 L" }
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Citroen",
+      "models": [
+        {
+          "model": "C3 AirCross",
+          "engines": [
+            { "engine": "1.2 Hybrid", "packages": ["Max", "Plus"] },
+            { "engine": "1.2 PureTech", "packages": ["Feel", "Feel Bold", "Feel Business", "Feel S Edition", "Live", "Shine"] },
+            { "engine": "1.5 BlueHDi", "packages": ["Feel", "Feel Bold", "Live Plus", "Shine"] },
+            { "engine": "1.6 BlueHDi", "packages": ["Feel", "Shine"] }
+          ]
+        },
+        {
+          "model": "e-C3 AirCross",
+          "variants": [
+            { "variant": "Max Standart Menzil" },
+            { "variant": "Max Uzun Menzil" }
+          ]
+        },
+        {
+          "model": "C4 Cactus",
+          "engines": [
+            { "engine": "1.2 PureTech", "packages": ["Feel", "Feel Edition", "Shine", "Shine Edition"] },
+            { "engine": "1.2 VTi", "packages": ["Feel"] },
+            { "engine": "1.2 e-VTi", "packages": ["Feel", "Shine"] },
+            { "engine": "1.5 BlueHDi", "packages": ["Feel", "Shine"] },
+            { "engine": "1.6 BlueHDi", "packages": ["Feel", "Shine"] },
+            { "engine": "1.6 e-HDi", "packages": ["Feel", "Shine"] }
+          ]
+        },
+        {
+          "model": "C5 AirCross",
+          "engines": [
+            { "engine": "1.2 Hybrid", "packages": ["E-Series", "Max", "Plus"] },
+            { "engine": "1.2 Puretech", "packages": ["Live", "Selection"] },
+            { "engine": "1.5 BlueHDI", "packages": ["Exclusive", "Feel", "Feel Adventure", "Feel Bold", "Feel S Edition", "Live", "Max", "Selection", "Selection Business", "Shine", "Shine Bold"] },
+            { "engine": "1.6 PureTech", "packages": ["Exclusive", "Feel Adventure", "Selection", "Shine", "Shine Bold", "Shine SX Edition"] }
+          ]
+        },
+        {
+          "model": "C-Crosser",
+          "engines": [
+            { "engine": "2.2" }
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Cupra",
+      "models": [
+        {
+          "model": "Ateca",
+          "engines": [
+            { "engine": "1.5 TSI" },
+            { "engine": "2.0 TSI" }
+          ]
+        },
+        {
+          "model": "Formentor",
+          "engines": [
+            { "engine": "1.4 eHybrid Phev", "packages": ["VZ"] },
+            { "engine": "1.5 eHybrid Phev", "packages": ["Impulse", "Supreme", "VZ"] },
+            { "engine": "1.5 e-TSI Mhev", "packages": ["Impulse", "Standart", "Supreme", "VZ Line"] },
+            { "engine": "1.5 TSI" },
+            { "engine": "2.0 TSI" }
+          ]
+        },
+        {
+          "model": "Terramar",
+          "engines": [
+            { "engine": "1.5 e-TSI", "packages": ["Impulse", "Supreme", "VZ-Line"] }
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Dacia",
+      "models": [
+        {
+          "model": "Duster",
+          "engines": [
+            { "engine": "1.0 Tce", "packages": ["Comfort", "Essential", "Prestige"] },
+            { "engine": "1.0 Tce ECO-G", "packages": ["Comfort", "Essential", "Expression", "Prestige"] },
+            { "engine": "1.2 Tce", "packages": ["Comfort", "Prestige"] },
+            { "engine": "1.3 Tce", "packages": ["Comfort", "Essential", "Expression", "Extreme", "Journey", "Prestige", "Prestige Plus", "Techroad"] },
+            { "engine": "1.5 BlueDCi", "packages": ["Comfort", "Essential", "Journey", "Prestige", "Prestige Plus", "Techroad"] },
+            { "engine": "1.5 DCi", "packages": ["Ambiance", "Blackshadow", "Comfort", "Laureate", "Prestige"] },
+            { "engine": "1.6", "packages": ["1.6", "Ambiance", "Comfort"] },
+            { "engine": "1.6 Sce ECO-G", "packages": ["Comfort", "Prestige"] }
+          ]
+        },
+        {
+          "model": "Logan Pickup",
+          "engines": [
+            { "engine": "1.5 DCI" }
+          ]
+        },
+        {
+          "model": "Sandero Stepway",
+          "engines": [
+            { "engine": "1.0 Tce", "packages": ["Comfort", "Essential", "Expression", "Extreme", "Prestige"] },
+            { "engine": "1.0 T ECO-G", "packages": ["Comfort", "Essential", "Expression", "Prestige"] }
+          ]
+        },
+        {
+          "model": "Spring",
+          "variants": [
+            { "variant": "Extreme" }
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Daewoo",
+      "models": [
+        {
+          "model": "Korando",
+          "engines": [
+            { "engine": "2.9 D" }
+          ]
+        },
+        {
+          "model": "Musso",
+          "engines": [
+            { "engine": "2.9 D" },
+            { "engine": "3.2" }
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Daihatsu",
+      "models": [
+        {
+          "model": "Feroza",
+          "engines": [
+            { "engine": "1.6", "packages": ["DX", "SX"] }
+          ]
+        },
+        {
+          "model": "Terios",
+          "engines": [
+            { "engine": "1.3", "packages": ["1.3", "DX", "SX"] },
+            { "engine": "1.5", "packages": ["DX", "Galaxy", "Gold", "Prime", "Silver"] }
+          ]
+        },
+        {
+          "model": "Rocky",
+          "engines": [
+            { "engine": "1.6" }
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "DFM",
+      "models": [
+        {
+          "model": "Rich",
+          "engines": [
+            { "engine": "2.5" }
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "DFSK",
+      "models": [
+        {
+          "model": "E5",
+          "engines": [
+            { "engine": "1.5", "packages": ["Comfort", "Elegance", "Trend Comfort", "Trend Elegance"] }
+          ]
+        },
+        {
+          "model": "Fengon",
+          "variants": [
+            { "variant": "5", "packages": ["1.5 T Premium"] },
+            { "variant": "500", "packages": ["1.5 T Premium"] }
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Dodge",
+      "models": [
+        {
+          "model": "Durango",
+          "engines": [
+            { "engine": "3.6L" },
+            { "engine": "5.9L" }
+          ]
+        },
+        {
+          "model": "Journey",
+          "variants": [
+            { "variant": "2.0 CRD R/T" }
+          ]
+        },
+        {
+          "model": "Ram",
+          "engines": [
+            { "engine": "3.0" },
+            { "engine": "3.0 Diesel" },
+            { "engine": "5.9" },
+            { "engine": "6.2" },
+            { "engine": "6.7" },
+            { "engine": "8.3" }
+          ]
+        },
+        {
+          "model": "Caliber",
+          "engines": [
+            { "engine": "1.8", "packages": ["SXT"] },
+            { "engine": "2.0", "packages": ["CRD", "SXT"] }
+          ]
+        },
+        {
+          "model": "Nitro",
+          "variants": [
+            { "variant": "2.8 CRD" },
+            { "variant": "R/T" },
+            { "variant": "SE" },
+            { "variant": "SXT" }
+          ]
+        },
+        {
+          "model": "Raider",
+          "engines": [
+            { "engine": "2.6" }
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "DS Automobiles",
+      "models": [
+        {
+          "model": "DS 3 Crossback",
+          "engines": [
+            { "engine": "1.2 PureTech", "packages": ["Performance Line", "So Chic"] },
+            { "engine": "1.5 BlueHDI", "packages": ["So Chic"] }
+          ]
+        },
+        {
+          "model": "DS 7 Crossback",
+          "engines": [
+            { "engine": "1.5 BlueHDI", "packages": ["Antoine de Saint Exupery", "Esprit de Voyage", "Etoile", "Opera", "Performance Line", "Rivoli", "So Chic Opera", "So Chic Rivoli"] },
+            { "engine": "1.6 Hybrid", "packages": ["Antoine de Saint Exupery", "Esprit de Voyage", "Etoile", "Grand Chic Opera", "Opera", "Rivoli"] },
+            { "engine": "1.6 Puretech", "packages": ["Louvre", "Opera", "Performance Line", "Rivoli", "So Chic", "So Chic Opera", "So Chic Rivoli"] },
+            { "engine": "2.0 BlueHDI", "packages": ["So Chic Rivoli"] }
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Ferrari",
+      "models": [
+        {
+          "model": "Purosangue",
+          "engines": [
+            { "engine": "V12" }
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Fiat",
+      "models": [
+        {
+          "model": "Egea Cross",
+          "engines": [
+            { "engine": "1.0 Firefly", "packages": ["Lounge", "Urban", "Wagon Lounge"] },
+            { "engine": "1.3 Multijet", "packages": ["Street", "Urban"] },
+            { "engine": "1.4 Fire", "packages": ["Limited", "Lounge", "Street", "Urban", "Street Plus"] },
+            { "engine": "1.5 T4 Hibrit", "packages": ["Limited", "Lounge", "Street", "Urban", "Wagon Lounge"] },
+            { "engine": "1.6 Multijet", "packages": ["Limited", "Lounge", "Lounge Plus", "Street", "Street Plus", "Urban", "Urban Plus", "Wagon Lounge", "Wagon Urban"] }
+          ]
+        },
+        {
+          "model": "Grande Panda Electric",
+          "variants": [
+            { "variant": "La Prima" }
+          ]
+        },
+        {
+          "model": "Grande Panda Hybrid",
+          "engines": [
+            { "engine": "1.2 Mhev", "packages": ["Icon"] }
+          ]
+        },
+        {
+          "model": "Freemont",
+          "engines": [
+            { "engine": "2.0 Multijet", "packages": ["Croos", "Lounge"] }
+          ]
+        },
+        {
+          "model": "Fullback",
+          "engines": [
+            { "engine": "2.4 D", "packages": ["Fullrock", "Hardrock", "Rock"] }
+          ]
+        },
+        {
+          "model": "Sedici",
+          "engines": [
+            { "engine": "1.6", "packages": ["Dynamic", "Emotion"] }
+          ]
+        },
+        {
+          "model": "500 X",
+          "engines": [
+            { "engine": "1.0", "packages": ["Urban"] },
+            { "engine": "1.3", "packages": ["Cross", "Cross Plus", "Soft Top", "Sport"] },
+            { "engine": "1.3 Multijet", "packages": ["Cross"] },
+            { "engine": "1.4 T", "packages": ["Cross", "Cross Plus", "PopStar"] },
+            { "engine": "1.5 T4 Hibrit", "packages": ["Cross Plus", "Soft Top"] },
+            { "engine": "1.6", "packages": ["Pop"] },
+            { "engine": "1.6 Mjet", "packages": ["City Cross", "Cross", "Cross Plus", "Popstar"] }
+          ]
+        },
+        {
+          "model": "600",
+          "engines": [
+            { "engine": "1.2 Mhev", "packages": ["Easy", "Urban"] }
+          ]
+        },
+        {
+          "model": "600e",
+          "variants": [
+            { "variant": "La Prima" }
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Ford",
+      "models": [
+        {
+          "model": "Bronco Sport",
+          "engines": [
+            { "engine": "1.5 EcoBoost", "packages": ["Big Bend"] }
+          ]
+        },
+        {
+          "model": "Capri",
+          "variants": [
+            { "variant": "Premium" }
+          ]
+        },
+        {
+          "model": "EcoSport",
+          "engines": [
+            { "engine": "1.0 EcoBoost", "packages": ["ST Line", "Style"] },
+            { "engine": "1.5 TDCI", "packages": ["ST Line"] }
+          ]
+        },
+        {
+          "model": "Edge",
+          "engines": [
+            { "engine": "2.0 EcoBoost", "packages": ["Titanium"] },
+            { "engine": "2.0 TDCi", "packages": ["Titanium"] }
+          ]
+        },
+        {
+          "model": "Expedition",
+          "engines": [
+            { "engine": "3.5" },
+            { "engine": "5.4 V8" }
+          ]
+        },
+        {
+          "model": "Explorer-E",
+          "variants": [
+            { "variant": "Premium" },
+            { "variant": "Select" }
+          ]
+        },
+        {
+          "model": "Explorer",
+          "variants": [
+            { "variant": "3.5" },
+            { "variant": "4.0" },
+            { "variant": "4.0 XLT" },
+            { "variant": "5.0 Limited" }
+          ]
+        },
+        {
+          "model": "F",
+          "variants": [
+            { "variant": "150" },
+            { "variant": "350" }
+          ]
+        },
+        {
+          "model": "Flex",
+          "engines": [
+            { "engine": "3.5" }
+          ]
+        },
+        {
+          "model": "Kuga",
+          "engines": [
+            { "engine": "1.5 TDCI", "packages": ["ST Line", "Style", "Titanium"] },
+            { "engine": "1.5 EcoBlue", "packages": ["ST Line", "Style", "Titanium", "Vignale"] },
+            { "engine": "1.5 EcoBoost", "packages": ["Selective", "ST-Line", "ST-Line Black Package", "ST-Line X", "Style", "Titanium", "Trend X", "Vignale"] },
+            { "engine": "1.6 EcoBoost", "packages": ["Selective", "Titanium", "Trend X"] },
+            { "engine": "2.0 TDCi", "packages": ["Selective", "Titanium"] }
+          ]
+        },
+        {
+          "model": "Mustang Mach-E",
+          "variants": [
+            { "variant": "Extended Range" },
+            { "variant": "GT" },
+            { "variant": "Premium" },
+            { "variant": "Standart Range" }
+          ]
+        },
+        {
+          "model": "Puma",
+          "engines": [
+            { "engine": "1.0 EcoBoost", "packages": ["ST-Line", "Style"] },
+            { "engine": "1.0 EcoBoost Hybrid", "packages": ["ST-Line", "ST-Line X", "Titanium"] },
+            { "engine": "1.5 EcoBoost", "packages": ["ST"] }
+          ]
+        },
+        {
+          "model": "Puma-E",
+          "variants": [
+            { "variant": "Premium" }
+          ]
+        },
+        {
+          "model": "Ranger",
+          "engines": [
+            { "engine": "2.0 EcoBlue", "packages": ["4x2 XLT", "4x4 Stormtrak", "4x4 Wildtrak", "4x4 Wildtrak X", "4x4 Wolftrak", "4x4 XLT"] },
+            { "engine": "2.2 TDCi", "packages": ["XL", "XLT"] },
+            { "engine": "2.5 TDCi", "packages": ["Hi-Rider", "STD", "Thunder", "XL", "XLT"] },
+            { "engine": "3.0 EcoBlue", "packages": ["MS-RT", "Platinum", "Wildtrak"] },
+            { "engine": "3.0 TDCi", "packages": ["XLT"] },
+            { "engine": "3.2 TDCi", "packages": ["Wild Trak"] }
+          ]
+        },
+        {
+          "model": "Ranger Raptor",
+          "engines": [
+            { "engine": "2.0 EcoBlue", "packages": ["4x4"] }
+          ]
+        },
+        {
+          "model": "Maverick",
+          "variants": [
+            { "variant": "3.0i XLT" }
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Forthing",
+      "models": [
+        {
+          "model": "M4 U-Tour",
+          "engines": [
+            { "engine": "1.5 T", "packages": ["Executive", "Premium"] }
+          ]
+        },
+        {
+          "model": "T5 Evo",
+          "engines": [
+            { "engine": "1.5 T", "packages": ["Executive", "Premium"] }
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Foton",
+      "models": [
+        {
+          "model": "Tunland G7",
+          "engines": [
+            { "engine": "2.0", "packages": ["Flagship", "Flagship Plus"] }
+          ]
+        },
+        {
+          "model": "Tunland V9",
+          "engines": [
+            { "engine": "2.0 Mhev", "packages": ["Ultra"] }
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "GMC",
+      "models": [
+        {
+          "model": "Canyon",
+          "variants": [
+            { "variant": "Denali 2.8" }
+          ]
+        },
+        {
+          "model": "Jimmy",
+          "engines": [
+            { "engine": "4.3 V6" }
+          ]
+        },
+        {
+          "model": "Sierra",
+          "engines": [
+            { "engine": "2.7 L" },
+            { "engine": "3.0 L" },
+            { "engine": "5.7 V8" },
+            { "engine": "6.2 L" }
+          ]
+        },
+        {
+          "model": "Terrain",
+          "engines": [
+            { "engine": "1.5" }
+          ]
+        },
+        {
+          "model": "Typhoon",
+          "engines": [
+            { "engine": "4.3" }
+          ]
+        },
+        {
+          "model": "Yukon",
+          "variants": [
+            { "variant": "Denali 6.2 V8" },
+            { "variant": "Vortec 5.3 V8" },
+            { "variant": "Vortec 5.7 V8" }
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Honda",
+      "models": [
+        {
+          "model": "CR-V",
+          "engines": [
+            { "engine": "1.5 VTEC", "packages": ["Elegance", "Executive", "Executive Lifestyle", "Executive Plus"] },
+            { "engine": "1.6 i-DTEC", "packages": ["Dream", "Elegance", "Executive", "Executive +", "Premium"] },
+            { "engine": "2.0 e-HEV", "packages": ["Advance"] },
+            { "engine": "2.0i", "packages": ["ES", "LS"] },
+            { "engine": "2.0 i-MMD", "packages": ["Executive Plus"] },
+            { "engine": "2.0 i-VTEC", "packages": ["2.0 i-VTEC", "Elegance", "ES", "Executive", "Lifestyle", "LS"] },
+            { "engine": "2.2 i-CTDi", "packages": ["Executive"] },
+            { "engine": "2.2 i-DTEC", "packages": ["2.2 i-DTEC"] }
+          ]
+        },
+        {
+          "model": "HR-V",
+          "engines": [
+            { "engine": "1.5 e-HEV", "packages": ["Advance", "Elegance", "Style", "Style Plus"] },
+            { "engine": "1.5 i-VTEC", "packages": ["Elegance", "Executive", "Premium", "Turbo Sport"] },
+            { "engine": "1.6 i-DTEC", "packages": ["Elegance", "Premium"] }
+          ],
+          "variants": [
+            { "variant": "2WD" },
+            { "variant": "4WD" }
+          ]
+        },
+        {
+          "model": "ZR-V",
+          "engines": [
+            { "engine": "2.0 e-HEV", "packages": ["Advance"] }
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Hongqi",
+      "models": [
+        {
+          "model": "E-HS9",
+          "variants": [
+            { "variant": "Deluxe" },
+            { "variant": "Executive" }
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Hummer",
+      "models": [
+        {
+          "model": "H Serisi",
+          "variants": [
+            { "variant": "H1" },
+            { "variant": "H2" },
+            { "variant": "H3" }
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Hyundai",
+      "models": [
+        {
+          "model": "Bayon",
+          "engines": [
+            { "engine": "1.0 T-GDI", "packages": ["Elite", "Elite Bose", "Jump", "Style"] },
+            { "engine": "1.2 MPI", "packages": ["Jump"] },
+            { "engine": "1.4 MPI", "packages": ["Elite", "Jump", "Style", "Style Design"] }
+          ]
+        },
+        {
+          "model": "Ioniq 5",
+          "variants": [
+            { "variant": "Advance" },
+            { "variant": "Dynamic" },
+            { "variant": "Dynamic Vision Roof" },
+            { "variant": "Progressive" }
+          ]
+        },
+        {
+          "model": "Ioniq 5 N",
+          "variants": [
+            { "variant": "N" }
+          ]
+        },
+        {
+          "model": "Ioniq 9",
+          "variants": [
+            { "variant": "Progressive" }
+          ]
+        },
+        {
+          "model": "Inster",
+          "variants": [
+            { "variant": "Advance" }
+          ]
+        },
+        {
+          "model": "ix35",
+          "engines": [
+            { "engine": "1.6 GDI", "packages": ["Design", "Elite", "Style", "Style Plus"] },
+            { "engine": "2.0 R", "packages": ["Elite", "Style", "Style Plus"] }
+          ]
+        },
+        {
+          "model": "ix55",
+          "engines": [
+            { "engine": "3.0 CRDi" }
+          ]
+        },
+        {
+          "model": "Galloper",
+          "engines": [
+            { "engine": "2.5 TDI" },
+            { "engine": "3.0 V6" }
+          ]
+        },
+        {
+          "model": "Kona",
+          "engines": [
+            { "engine": "1.0 T-GDI", "packages": ["Elite", "Style"] },
+            { "engine": "1.6 CRDI", "packages": ["Elite Smart", "Smart", "Style"] },
+            { "engine": "1.6 CRDI Hibrit", "packages": ["Elite", "Smart", "Style"] },
+            { "engine": "1.6 GDI Hibrit", "packages": ["1.6 GDI Hibrit"] },
+            { "engine": "1.6 T-GDI", "packages": ["Elite", "Elite Smart", "N Line", "Prime", "Smart"] }
+          ]
+        },
+        {
+          "model": "Kona Elektrik",
+          "variants": [
+            { "variant": "Advance" },
+            { "variant": "Progressive" }
+          ]
+        },
+        {
+          "model": "Santa Fe",
+          "engines": [
+            { "engine": "1.6 T-GDI", "packages": ["Progressive"] },
+            { "engine": "2.0 CRDi", "packages": ["Elegance", "Executive", "GLS", "Premium", "Style", "VGT"] },
+            { "engine": "2.0 TCI" },
+            { "engine": "2.2 CRDi" },
+            { "engine": "2.4 GLS" },
+            { "engine": "2.7 V6" },
+            { "engine": "3.3 V6" }
+          ]
+        },
+        {
+          "model": "Terracan",
+          "variants": [
+            { "variant": "2.9 CRDi GL" }
+          ]
+        },
+        {
+          "model": "Tucson",
+          "engines": [
+            { "engine": "1.6 CRDI", "packages": ["Elite", "Elite Plus", "Elite Plus Red Pack", "Elite Red Pack", "N Line", "N Line Plus", "Prime", "Smart", "Style", "Style Plus"] },
+            { "engine": "1.6 GDI", "packages": ["Elite", "Elite Plus", "Style", "Style Plus"] },
+            { "engine": "1.6 T-GDI", "packages": ["Comfort", "Elite", "Elite Plus", "N-Line", "Power Edition", "Prime", "Prime Plus", "Style"] },
+            { "engine": "1.6 T-GDI Hibrit", "packages": ["Elite", "Elite Plus"] },
+            { "engine": "2.0 CRDi", "packages": ["2.0 CRDi", "Active", "Dynamic", "Executive", "Select", "Sport", "Style", "Travel"] },
+            { "engine": "2.0 CVVT", "packages": ["Active", "Dynamic", "Style"] }
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Infiniti",
+      "models": [
+        {
+          "model": "FX",
+          "variants": [
+            { "variant": "FX30d GT" },
+            { "variant": "FX30d S" },
+            { "variant": "FX35" },
+            { "variant": "FX37 S" },
+            { "variant": "FX45" }
+          ]
+        },
+        {
+          "model": "QX",
+          "variants": [
+            { "variant": "QX4" }
+          ]
+        },
+        {
+          "model": "QX70",
+          "variants": [
+            { "variant": "3.0d S Premium" }
+          ]
+        },
+        {
+          "model": "EX",
+          "variants": [
+            { "variant": "EX37" }
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Isuzu",
+      "models": [
+        {
+          "model": "D-Max",
+          "engines": [
+            { "engine": "1.9 D", "packages": ["1.9 D", "V-Cross", "V-Go", "V-Life"] },
+            { "engine": "2.5", "packages": ["4x4 LTD", "4x4 T", "4x4 V-Cross", "Çift Kabin 4x2", "Çift Kabin 4x4", "Tek Kabin 4x2"] },
+            { "engine": "2.5 D" },
+            { "engine": "3.0 D 4x4" }
+          ]
+        },
+        {
+          "model": "Trooper",
+          "engines": [
+            { "engine": "2.3" },
+            { "engine": "2.6" },
+            { "engine": "3.0" }
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Jaecoo",
+      "models": [
+        {
+          "model": "J7",
+          "engines": [
+            { "engine": "1.6", "packages": ["Evolve", "Revive"] }
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Jaguar",
+      "models": [
+        {
+          "model": "E-Pace",
+          "engines": [
+            { "engine": "1.5", "packages": ["S", "SE", "R-Dynamic S", "R-Dynamic SE"] },
+            { "engine": "2.0", "packages": ["R-Dynamic S", "S"] }
+          ]
+        },
+        {
+          "model": "F-Pace",
+          "engines": [
+            { "engine": "2.0", "packages": ["R-Sport"] },
+            { "engine": "2.0 D", "packages": ["Portfolio", "Portfolio Plus", "Prestige", "Prestige Plus", "Pure", "R-Dynamic Black", "R-Dynamic HSE", "R-Dynamic SE", "R-Sport", "R-Sport Plus", "SE"] },
+            { "engine": "2.5 D", "packages": ["R-Sport"] }
+          ]
+        },
+        {
+          "model": "I-Pace",
+          "variants": [
+            { "variant": "First Edition" },
+            { "variant": "HSE" },
+            { "variant": "S" },
+            { "variant": "SE" },
+            { "variant": "R-Dynamic HSE" }
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Jeep",
+      "models": [
+        {
+          "model": "Avenger Electric",
+          "variants": [
+            { "variant": "Limited" },
+            { "variant": "Summit" }
+          ]
+        },
+        {
+          "model": "Avenger Hybrid",
+          "engines": [
+            { "engine": "1.2", "packages": ["Limited", "Summit"] }
+          ]
+        },
+        {
+          "model": "Cherokee",
+          "engines": [
+            { "engine": "2.0 TD", "packages": ["Limited", "Longitude"] },
+            { "engine": "2.1 TD", "packages": ["Limited"] },
+            { "engine": "2.4", "packages": ["2.4", "Sport"] },
+            { "engine": "2.5", "packages": ["2.5", "Limited"] },
+            { "engine": "2.5 CRD", "packages": ["Limited"] },
+            { "engine": "2.5 TD", "packages": ["2.5 TD"] },
+            { "engine": "2.8 CRD", "packages": ["2.8 CRD", "Limited", "Renegade"] },
+            { "engine": "3.7", "packages": ["3.7", "Limited", "Renegade"] },
+            { "engine": "4.0", "packages": ["4.0", "Country", "Laredo", "Limited", "Sport"] }
+          ]
+        },
+        {
+          "model": "Commander",
+          "engines": [
+            { "engine": "3.0 CRD" },
+            { "engine": "5.7 HEMI" }
+          ]
+        },
+        {
+          "model": "Compass",
+          "engines": [
+            { "engine": "1.3 GSE", "packages": ["80. Yıl", "Limited", "Limited Sport", "Longitude", "S Limited"] },
+            { "engine": "1.3 PHEV", "packages": ["S Limited", "Trailhawk"] },
+            { "engine": "1.4", "packages": ["S Limited"] },
+            { "engine": "1.4 Limited" },
+            { "engine": "1.5 Hybrid", "packages": ["Limited", "Longitude", "North Star", "S Limited", "Summit"] },
+            { "engine": "1.6 Limited" },
+            { "engine": "1.6 MultiJet", "packages": ["Longitude"] },
+            { "engine": "2.0 CRD", "packages": ["Limited"] },
+            { "engine": "2.0 CVT" },
+            { "engine": "2.0 Limited" },
+            { "engine": "2.0 MultiJet", "packages": ["Limited"] },
+            { "engine": "2.4 CVT" }
+          ]
+        },
+        {
+          "model": "Grand Cherokee",
+          "engines": [
+            { "engine": "2.7 CRD", "packages": ["Limited", "Overland", "Vision"] },
+            { "engine": "3.0 CRD", "packages": ["Laredo", "Limited", "Overland", "Summit"] },
+            { "engine": "3.1 TD", "packages": ["Laredo", "Limited"] },
+            { "engine": "3.6", "packages": ["Limited"] },
+            { "engine": "4.0", "packages": ["Laredo", "Limited"] },
+            { "engine": "4.7", "packages": ["Limited", "Overland"] },
+            { "engine": "5.2", "packages": ["Limited"] },
+            { "engine": "5.7", "packages": ["Limited"] },
+            { "engine": "5.9", "packages": ["Limited"] },
+            { "engine": "6.1", "packages": ["SRT"] },
+            { "engine": "6.4", "packages": ["SRT"] }
+          ]
+        },
+        {
+          "model": "Patriot",
+          "engines": [
+            { "engine": "2.0 CRD", "packages": ["2.0 CRD", "Limited"] },
+            { "engine": "2.4 CVT" }
+          ]
+        },
+        {
+          "model": "Renegade",
+          "engines": [
+            { "engine": "1.0 T", "packages": ["Sport"] },
+            { "engine": "1.3 T", "packages": ["80. Yıl", "Limited", "Limited Sport", "Longitude", "Longitude Sport", "S Limited"] },
+            { "engine": "1.4 MultiAir", "packages": ["Limited", "Longitude"] },
+            { "engine": "1.5 e-Hybrid", "packages": ["Limited", "Longitude", "Summit"] },
+            { "engine": "1.6 Multijet", "packages": ["Limited", "Longitude", "Night Eagle"] },
+            { "engine": "2.0 Multijet", "packages": ["Trailhawk"] }
+          ]
+        },
+        {
+          "model": "Wrangler",
+          "engines": [
+            { "engine": "2.0 T", "packages": ["80.Yıl", "Rubicon"] },
+            { "engine": "2.5", "packages": ["2.5"] },
+            { "engine": "2.8 CRD" },
+            { "engine": "3.8" },
+            { "engine": "4.0", "packages": ["Base", "Sahara", "SE"] },
+            { "engine": "4.0i" }
+          ]
+        },
+        {
+          "model": "CJ",
+          "variants": [
+            { "variant": "CJ-5" },
+            { "variant": "CJ-6" },
+            { "variant": "CJ-8" }
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "KGM SsangYong",
+      "models": [
+        {
+          "model": "Actyon",
+          "engines": [
+            { "engine": "1.5 T-GDI" },
+            { "engine": "2.0 XDI", "packages": ["2.0 XDI", "Exclusive"] }
+          ]
+        },
+        {
+          "model": "Actyon Sports",
+          "engines": [
+            { "engine": "2.0 SXDI 4x2" },
+            { "engine": "2.0 SXDI 4x4" },
+            { "engine": "2.0 XDI 4x2" },
+            { "engine": "2.0 XDI 4x4" }
+          ]
+        },
+        {
+          "model": "Korando",
+          "engines": [
+            { "engine": "1.5 T", "packages": ["Limited", "Platinum", "Titanium"] },
+            { "engine": "1.6 D", "packages": ["Limited", "Platinum", "Titanium"] },
+            { "engine": "2.0 E XDI 2.0" },
+            { "engine": "2.3 i" },
+            { "engine": "2.9 D" },
+            { "engine": "3.2 SELX" }
+          ]
+        },
+        {
+          "model": "Korando Sports",
+          "engines": [
+            { "engine": "2.0 e-XDI" },
+            { "engine": "2.0 e-XDI Limited" },
+            { "engine": "2.0 e-XDI Special Edition" },
+            { "engine": "2.0 XDI" }
+          ]
+        },
+        {
+          "model": "Kyron",
+          "engines": [
+            { "engine": "2.0 L XDI", "packages": ["Limited 4x4", "Modes 4x2"] },
+            { "engine": "2.0 XDI", "packages": ["4x2", "4x4", "Exclusive 4x4", "Limited 4x4", "LX 4x4", "Premium"] }
+          ]
+        },
+        {
+          "model": "Musso",
+          "engines": [
+            { "engine": "2.2 D", "packages": ["Platinum Plus"] },
+            { "engine": "2.3" }
+          ]
+        },
+        {
+          "model": "Musso Grand",
+          "engines": [
+            { "engine": "2.2 D", "packages": ["Edition", "Platinum", "Platinum Plus"] }
+          ]
+        },
+        {
+          "model": "Musso EV",
+          "variants": [
+            { "variant": "Standart" }
+          ]
+        },
+        {
+          "model": "Rexton",
+          "engines": [
+            { "engine": "2.0 D", "packages": ["4x2", "4x4"] },
+            { "engine": "2.0 e-XDI W", "packages": ["4x2 Modes", "4x2 Platinum", "4x4 Limited", "4X4 Platinum"] },
+            { "engine": "2.2 D", "packages": ["Platinum"] },
+            { "engine": "2.7 XDI", "packages": ["DSX", "LX SPR", "RX"] }
+          ]
+        },
+        {
+          "model": "Tivoli",
+          "engines": [
+            { "engine": "1.5 T", "packages": ["Deluxe"] },
+            { "engine": "1.6 D", "packages": ["Limited", "Platinum"] },
+            { "engine": "1.6 G", "packages": ["1.6 G", "Limited", "Modes", "Platinum"] }
+          ]
+        },
+        {
+          "model": "Torres",
+          "engines": [
+            { "engine": "1.5 GDI" }
+          ]
+        },
+        {
+          "model": "Torres EVX",
+          "variants": [
+            { "variant": "4x2" }
+          ]
+        },
+        {
+          "model": "XLV",
+          "engines": [
+            { "engine": "1.5 T", "packages": ["Deluxe"] },
+            { "engine": "1.6 D", "packages": ["Limited"] },
+            { "engine": "1.6 G" }
+          ]
+        },
+        {
+          "model": "Rodius",
+          "engines": [
+            { "engine": "2.0 e-XDI", "packages": ["4X2", "4X2 Limited", "4X2 Platinum", "4X4 Platinum"] },
+            { "engine": "2.7 XDI", "packages": ["2.7 XDI"] }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1008 @@
+{
+  "brands": [
+    {
+      "brand": "Abarth",
+      "models": [
+        {
+          "model": "500e",
+          "variants": [
+            {
+              "variant": "Cabrio",
+              "note": "tek model"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Aion",
+      "models": [
+        {
+          "model": "S",
+          "variants": [
+            { "variant": "580", "note": "tek model" }
+          ]
+        },
+        {
+          "model": "S Plus",
+          "variants": [
+            { "variant": "70", "note": "tek model" }
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Alfa Romeo",
+      "models": [
+        {
+          "model": "Giulia",
+          "engines": [
+            { "engine": "2.0", "packages": ["Competizione", "Veloce"] },
+            { "engine": "2.0T", "packages": ["Sprint", "Velonce"] }
+          ]
+        },
+        {
+          "model": "Giulia Quadrifoglio",
+          "engines": [
+            { "engine": "2.9" }
+          ]
+        },
+        {
+          "model": "Giulietta",
+          "engines": [
+            {
+              "engine": "1.4TB",
+              "packages": [
+                "Distinctive",
+                "MultiAir Distinctive",
+                "MultiAir Progression Pluse",
+                "MultiAir Super TCT",
+                "Progression Plus"
+              ]
+            },
+            {
+              "engine": "1.6JTD",
+              "packages": [
+                "Dstinctive",
+                "Giulietta",
+                "Progression",
+                "Progression Plus",
+                "Sprint",
+                "Super TCT",
+                "TI"
+              ]
+            },
+            {
+              "engine": "1.75TBI",
+              "packages": ["Quadrifoglio Verde"]
+            }
+          ]
+        },
+        {
+          "model": "145",
+          "engines": [
+            { "engine": "1.4", "packages": ["TS STD"] },
+            { "engine": "1.6", "packages": ["1.6", "L", "TS Sportivo"] },
+            { "engine": "1.7", "note": "tek paket" },
+            { "engine": "2.0", "packages": ["Quadrifoglio", "TS QV"] }
+          ]
+        },
+        {
+          "model": "146",
+          "engines": [
+            { "engine": "1.4", "packages": ["TS", "TS Ritmo"] },
+            { "engine": "1.6", "packages": ["L", "TS"] },
+            { "engine": "2.0Ti", "note": "tek paket" }
+          ]
+        },
+        {
+          "model": "147",
+          "engines": [
+            { "engine": "1.6 TS", "packages": ["Black Line", "Collezione", "Distinctive", "Progression"] },
+            { "engine": "1.9", "packages": ["JTD Q2"] },
+            { "engine": "2.0 TS", "packages": ["Distinctive", "Selespeed Distinctive"] }
+          ]
+        },
+        {
+          "model": "155",
+          "engines": [
+            { "engine": "2.0", "packages": ["TS", "TS Sport", "TS Super Losso"] }
+          ]
+        },
+        {
+          "model": "156",
+          "engines": [
+            { "engine": "1.6 TS", "packages": ["1.6 TS", "Distinctive", "Progression"] },
+            { "engine": "1.9 JTD", "packages": ["Impression", "Sportwagon"] },
+            { "engine": "2.0 JTS", "packages": ["Distinctive"] },
+            { "engine": "2.0 TS", "packages": ["2.0 TS", "Distinctive", "Executive", "Selespeed"] },
+            { "engine": "2.5", "packages": ["2.5"] }
+          ]
+        },
+        {
+          "model": "159",
+          "engines": [
+            { "engine": "1.9 JTD", "packages": ["Distinctive", "Distinctive Plus", "Progression"] },
+            { "engine": "1.9 JTS", "packages": ["Distinctive"] },
+            { "engine": "2.4 JTD", "packages": ["Distinctive"] },
+            { "engine": "3.2 JTS", "packages": ["Q4 Distinctive"] }
+          ]
+        },
+        {
+          "model": "166",
+          "engines": [
+            { "engine": "2.0", "packages": ["TB", "TS", "TS Executive"] }
+          ]
+        },
+        {
+          "model": "33",
+          "engines": [
+            { "engine": "1.5", "packages": ["Giardinetta", "IE"] },
+            { "engine": "1.7", "packages": ["IE"] }
+          ]
+        },
+        {
+          "model": "75",
+          "engines": [
+            { "engine": "1.8T", "note": "tek paket" }
+          ]
+        },
+        {
+          "model": "Brera",
+          "engines": [
+            { "engine": "2.2", "packages": ["JTS", "JTS Sky Window"] }
+          ]
+        },
+        {
+          "model": "GT",
+          "engines": [
+            { "engine": "1.9 JTD", "packages": ["Q2"] },
+            { "engine": "2.0 JTS", "packages": ["Dis.Selespeed", "Distinctive"] }
+          ]
+        },
+        {
+          "model": "GTV",
+          "engines": [
+            { "engine": "2.0T", "packages": ["TB", "TS"] }
+          ]
+        },
+        {
+          "model": "MiTo",
+          "engines": [
+            { "engine": "1.3 JTD", "packages": ["City"] },
+            {
+              "engine": "1.4 T",
+              "packages": [
+                "Distinctive",
+                "MultiAir Quadrifoglio Verde",
+                "MultiAir TCT",
+                "MultiAir TCT Sportivo",
+                "Progression"
+              ]
+            },
+            { "engine": "1.6 JTD", "packages": ["Distinctive", "Progression"] }
+          ]
+        },
+        {
+          "model": "Spider",
+          "variants": [
+            { "variant": "2.0 TS", "note": "tek model" }
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Alphine",
+      "models": [
+        {
+          "model": "A110",
+          "variants": [
+            { "variant": "GT", "note": "tek model" }
+          ]
+        },
+        {
+          "model": "A290",
+          "variants": [
+            { "variant": "GTS", "note": "tek model" }
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Anadol",
+      "models": [
+        { "model": "A", "variants": [{ "variant": "A1", "note": "tek paket" }] },
+        { "model": "A", "variants": [{ "variant": "A2", "note": "tek paket" }] },
+        { "model": "A", "variants": [{ "variant": "A2 SL", "note": "tek paket" }] }
+      ]
+    },
+    {
+      "brand": "Arora",
+      "models": [
+        {
+          "model": "S1",
+          "variants": [
+            { "variant": "S1", "note": "tek model tek paket" }
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Aston Martin",
+      "models": [
+        { "model": "DB11", "variants": [{ "variant": "Coupe", "packages": ["Coupe"] }] },
+        { "model": "DB12", "variants": [{ "variant": "Coupe", "packages": ["Coupe"] }, { "variant": "Volante", "packages": ["Volante"] }] },
+        { "model": "DB7", "variants": [{ "variant": "Coupe", "packages": ["Coupe"] }, { "variant": "Volante", "packages": ["Volante"] }] },
+        { "model": "DB9", "variants": [{ "variant": "Coupe", "packages": ["Coupe"] }, { "variant": "GT 007 Bond Edition", "packages": ["GT 007 Bond Edition"] }, { "variant": "Volante", "packages": ["Volante"] }] },
+        { "model": "DBS", "variants": [{ "variant": "DBS Coupe", "packages": ["DBS Coupe"] }] },
+        { "model": "Rapide", "variants": [{ "variant": "V12 Rapide", "packages": ["V12 Rapide"] }, { "variant": "V12 Rapide S", "packages": ["V12 Rapide S"] }] },
+        { "model": "Vanquish", "variants": [{ "variant": "V12", "packages": ["V12"] }] },
+        {
+          "model": "Vantage",
+          "variants": [
+            { "variant": "V8 Vanatge", "packages": ["V8 Vantage"] },
+            { "variant": "V8 Vantage F1 Edition", "packages": ["V8 Vantage F1 Edition"] },
+            { "variant": "V8 Vantage N430", "packages": ["V8 Vantage N430"] },
+            { "variant": "V8 Vantage Roadster", "packages": ["V8 Vantage Roadster"] },
+            { "variant": "V8 Vantage S", "packages": ["V8 Vantage S"] }
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Audi",
+      "models": [
+        {
+          "model": "A1",
+          "engines": [
+            { "engine": "1.4TFSI", "packages": ["Ambition", "Attraction"] },
+            { "engine": "1.6 TDI", "packages": ["Ambition", "Attraction", "S Line", "Sport"] }
+          ]
+        },
+        {
+          "model": "A2",
+          "engines": [{ "engine": "1.4", "note": "tek paket" }]
+        },
+        {
+          "model": "A3",
+          "variants": [
+            {
+              "variant": "A3 Cabrio",
+              "engines": [
+                { "engine": "35 TFSI", "packages": ["Design", "Sport"] },
+                { "engine": "1.2 TFSI", "note": "tek paket" },
+                { "engine": "1.4 TFSI", "packages": ["Ambiente", "Ambition", "Attraction", "Sport Line"] },
+                { "engine": "1.5 TFSI", "packages": ["Design Line", "Sport Line"] },
+                { "engine": "1.6", "packages": ["1.6"] },
+                { "engine": "1.8 TFSI", "packages": ["1.8 TFSI"] },
+                { "engine": "2.0 TDI", "packages": ["2.0 TDI"] }
+              ]
+            },
+            {
+              "variant": "A3 Hatchback",
+              "engines": [
+                { "engine": "1.4 TFSI", "packages": ["1.4 TFSI", "Ambiente", "Ambition", "Attraction", "Sport Line"] },
+                { "engine": "1.6", "packages": ["1.6", "Ambiente", "Ambition", "Attraction"] },
+                { "engine": "1.6 FSI", "packages": ["1.6 FSI"] },
+                { "engine": "1.6 TDI", "packages": ["Ambiente", "Aambition", "Attraction"] },
+                { "engine": "1.8", "packages": ["Ambiente", "Ambition", "Attraction"] },
+                { "engine": "1.8 T", "packages": ["Ambiente"] },
+                { "engine": "1.9 TDI", "packages": ["Attraction", "S-Line"] },
+                { "engine": "2.0 FSI", "packages": ["Ambition"] },
+                { "engine": "2.0 TDI", "packages": ["2.0 TDI", "Ambition"] }
+              ]
+            },
+            {
+              "variant": "A3 Sedan",
+              "engines": [
+                { "engine": "30 TDI", "packages": ["Design", "Dynamic", "Sport"] },
+                { "engine": "30 TFSI", "packages": ["Advanced", "Dynamic", "S Line"] },
+                { "engine": "35 TFSI", "packages": ["35 TFSI", "Advanced", "Design", "Dynamic", "S Line", "Sport"] },
+                { "engine": "1.0 TFSI", "packages": ["1.0 TFSI", "Design Line", "Dynamic", "Sport Line"] },
+                { "engine": "1.2 TFSI", "packages": ["Ambiente", "Ambition", "Attraction"] },
+                { "engine": "1.4 TFSI", "packages": ["Ambiente", "Ambition", "Attraction"] },
+                { "engine": "1.5 TFSI", "packages": ["Design Line", "Dynamic", "Sport Line"] },
+                { "engine": "1.6 TDI", "packages": ["1.6 TDI", "Ambiente", "Ambition", "Attraction", "Design Line", "Dynamic", "S Line", "Sport Line"] }
+              ]
+            },
+            {
+              "variant": "A3 Sportback",
+              "engines": [
+                { "engine": "30 TDI", "packages": ["Design", "Dynamic", "Sport"] },
+                { "engine": "30 TFSI", "packages": ["Advanced", "Dynamic", "S Line"] },
+                { "engine": "35 TFSI", "packages": ["Advanced", "All Street", "Design", "Dynamic", "S Line", "Sport"] },
+                { "engine": "1.0 TFSI", "packages": ["Design Line", "Dynamic", "Sport Line"] },
+                { "engine": "1.2 TFSI", "packages": ["Ambiente", "Attraction"] },
+                { "engine": "1.4 TFSI", "packages": ["1.4 TFSI", "Ambiente", "Ambition", "Attraction", "Sport Line"] },
+                { "engine": "1.5TFSI", "packages": ["Design Line", "Dynamic", "Sport Line"] },
+                { "engine": "1.6", "packages": ["1.6", "Ambiente", "Ambition", "Attraction"] },
+                { "engine": "1.6 FSI", "packages": ["1.6 FSI"] },
+                { "engine": "1.6 TDI", "packages": ["Standart", "Ambiente", "Ambition", "Attraction", "Design Line", "Dynamic", "Sport Line"] },
+                { "engine": "1.8", "packages": ["Ambiente"] },
+                { "engine": "1.8 T", "packages": ["Ambiente"] },
+                { "engine": "1.8 TFSI", "packages": ["Ambition", "Attraction"] },
+                { "engine": "1.9 TDI", "packages": ["1.9 TDI", "Attraction"] },
+                { "engine": "2.0 TDI", "packages": ["2.0 TDI", "Ambition", "Ambition Quattro"] },
+                { "engine": "3.2", "packages": ["Ambition Quattro"] }
+              ]
+            }
+          ]
+        },
+
+        {
+          "model": "A4",
+          "variants": [
+            {
+              "variant": "A4 Avant",
+              "engines": [
+                { "engine": "40 TDI", "packages": ["Quattro Advanced", "Quattro S Line"] },
+                { "engine": "1.4 TFSI", "packages": ["1.4 TFSI"] },
+                { "engine": "1.6", "packages": ["1.6"] },
+                { "engine": "1.8", "packages": ["1.8"] },
+                { "engine": "1.8 T", "packages": ["1.8 T"] },
+                { "engine": "1.8 TFSI", "packages": ["1.8 TFSI"] },
+                { "engine": "1.9 TDI", "packages": ["1.9 TDI"] },
+                { "engine": "2.0", "packages": ["2.0"] },
+                { "engine": "2.0 TDI", "packages": ["2.0 TDI"] },
+                { "engine": "2.0 TDI Advanced", "packages": ["2.0 TDI Advanced"] },
+                { "engine": "2.0 TDI Design", "packages": ["2.0 TDI Design"] },
+                { "engine": "2.0 TDI Dynamic", "packages": ["2.0 TDI Dynamic"] },
+                { "engine": "2.0 TDI Quattro Design", "packages": ["2.0 TDI Quattro Design"] },
+                { "engine": "2.0 TDI Sport", "packages": ["2.0 TDI Sport"] },
+                { "engine": "2.0 TFSI Quattro", "packages": ["2.0 TFSI Quattro"] },
+                { "engine": "2.5 TDI", "packages": ["2.5 TDI"] },
+                { "engine": "2.5 TDI Quattro", "packages": ["2.5 TDI Quattro"] },
+                { "engine": "2.7", "packages": ["2.7"] },
+                { "engine": "3.0 Quattro", "packages": ["3.0 Quattro"] }
+              ]
+            },
+            {
+              "variant": "A4 Cabrio",
+              "engines": [
+                { "engine": "1.8 T", "packages": ["1.8 T"] },
+                { "engine": "2.0 TFSI", "packages": ["2.0 TFSI"] },
+                { "engine": "2.5 TDI", "packages": ["2.5 TDI"] },
+                { "engine": "3.0", "packages": ["3.0"] },
+                { "engine": "3.0 Quattro", "packages": ["3.0 Quattro"] }
+              ]
+            },
+            {
+              "variant": "A4 Sedan",
+              "engines": [
+                { "engine": "40 TDI", "packages": ["Advanced", "Quattro Advanced", "Design", "S Line", "Quattro S Line", "Sport"] },
+                { "engine": "45 TFSI", "packages": ["Quattro Advanced", "Quattro Design", "Quattro S Line"] },
+                { "engine": "1.4 TFSI", "packages": ["1.4 TFSI"] },
+                { "engine": "1.4 TFSI Design", "packages": ["1.4 TFSI Design"] },
+                { "engine": "1.4 TFSI Dynamic", "packages": ["1.4 TFSI Dynamic"] },
+                { "engine": "1.4 TFSI Sport", "packages": ["1.4 TFSI Sport"] },
+                { "engine": "1.6", "packages": ["1.6"] },
+                { "engine": "1.8", "packages": ["1.8"] },
+                { "engine": "1.8 Quattro", "packages": ["1.8 Quattro"] },
+                { "engine": "1.8 T", "packages": ["1.8 T"] },
+                { "engine": "1.8 TFSI", "packages": ["1.8 TFSI"] },
+                { "engine": "1.8 T Quattro", "packages": ["1.8 T Quattro"] },
+                { "engine": "1.9 TDI", "packages": ["1.9 TDI"] },
+                { "engine": "1.9 T Quattro", "packages": ["1.9 T Quattro"] },
+                { "engine": "2.0", "packages": ["2.0"] },
+                { "engine": "2.0 TDI", "packages": ["2.0 TDI"] },
+                { "engine": "2.0 TDI Design", "packages": ["2.0 TDI Design"] },
+                { "engine": "2.0 TDI Dynamic", "packages": ["2.0 TDI Dynamic"] },
+                { "engine": "2.0 TDI S Line", "packages": ["2.0 TDI S Line"] },
+                { "engine": "2.0 TDI Sport", "packages": ["2.0 TDI Sport"] },
+                { "engine": "2.0 TDI Quattro", "packages": ["2.0 TDI Quattro"] },
+                { "engine": "2.0 TDI Quattro Design", "packages": ["2.0 TDI Quattro Design"] },
+                { "engine": "2.0 TDI Quattro Dynamic", "packages": ["2.0 TDI Quattro Dynamic"] },
+                { "engine": "2.0 TDI Quattro Sport", "packages": ["2.0 TDI Quattro Sport"] },
+                { "engine": "2.0 TFSI", "packages": ["2.0 TFSI"] },
+                { "engine": "2.0 TFSI Quattro", "packages": ["2.0 TFSI Quattro"] },
+                { "engine": "2.0 TFSI Quattro S Line", "packages": ["2.0 TFSI Quattro S Line"] },
+                { "engine": "2.4", "packages": ["2.4"] },
+                { "engine": "2.5 TDI", "packages": ["2.5 TDI"] },
+                { "engine": "2.5 TDI Quattro", "packages": ["2.5 TFSI Quattro"] },
+                { "engine": "2.6", "packages": ["2.6"] },
+                { "engine": "2.7 TDI", "packages": ["2.7 TDI"] },
+                { "engine": "2.8 Quattro", "packages": ["2.8 Quattro"] },
+                { "engine": "3.0 Quattro", "packages": ["3.0 Quattro"] },
+                { "engine": "3.2 FSI Quattro", "packages": ["3.2 FSI Quattro"] }
+              ]
+            },
+            {
+              "variant": "A4 Allroad quattro",
+              "engines": [
+                { "engine": "40 TDI", "packages": ["40 TDI"] },
+                { "engine": "45 TFSI", "packages": ["45 TFSI"] },
+                { "engine": "2.0 TDI", "packages": ["2.0 TDI"] },
+                { "engine": "2.0 TFSI", "packages": ["2.0 TFSI"] }
+              ]
+            }
+          ]
+        },
+
+        {
+          "model": "A5",
+          "variants": [
+            { "variant": "A5 Avant", "engines": [{ "engine": "2.0 TDI Quattro", "packages": ["2.0 TDI Quattro"] }] },
+            { "variant": "A5 Cabrio", "engines": [
+              { "engine": "40 TDI", "packages": ["Quattro S Line", "40 TDI Quattro S Line"] },
+              { "engine": "45 TFSI", "packages": ["Quattro S Line"] },
+              { "engine": "1.8 TFSI", "packages": ["1.8 TFSI"] },
+              { "engine": "2.0 TFSI Quattro", "packages": ["2.0 TFSI Quattro"] }
+            ]},
+            { "variant": "A5 Coupe", "engines": [
+              { "engine": "40 TDI", "packages": ["Quattro Advanced", "Quattro S Line"] },
+              { "engine": "45 TFSI", "packages": ["1.4 TFSI Design"] },
+              { "engine": "1.4 TFSI Sport", "packages": ["1.4 TFSI Sport"] },
+              { "engine": "1.8 TFSI", "packages": ["1.8 TFSI"] },
+              { "engine": "1.8 TFSI S Line", "packages": ["1.8 TFSI S Line"] },
+              { "engine": "2.0 TDI", "packages": ["2.0 TDI"] },
+              { "engine": "2.0 TDI Quattro", "packages": ["2.0 TDI Quattro"] },
+              { "engine": "2.0 TFSI", "packages": ["2.0 TFSI"] },
+              { "engine": "2.0 TFSI Quattro", "packages": ["2.0 TFSI Quattro"] },
+              { "engine": "2.7 TDI", "packages": ["2.7 TDI"] },
+              { "engine": "3.0 TDI Quattro", "packages": ["3.0 TDI Quattro"] },
+              { "engine": "3.2 FSI", "packages": ["3.2 FSI"] }
+            ]},
+            { "variant": "A5 Sedan", "engines": [
+              { "engine": "2.0 TDI Quattro", "packages": ["2.0 TDI Quattro"] },
+              { "engine": "2.0 TFSI", "packages": ["2.0 TFSI"] },
+              { "engine": "2.0 TFSI Quattro", "packages": ["2.0 TFSI Quattro"] }
+            ]},
+            { "variant": "A5 Sportback", "engines": [
+              { "engine": "40 TDI", "packages": ["Quattro Advanced", "Quattro Design", "Quattro S Line", "Quattro Sport"] },
+              { "engine": "45 TFSI", "packages": ["Quattro Advanced", "Quattro S Line"] },
+              { "engine": "1.4 TFSI Design", "packages": ["1.4 TFSI Design"] },
+              { "engine": "1.4 TFSI Dynamic", "packages": ["1.4 TFSI Dynamic"] },
+              { "engine": "1.4 TFSI Sport", "packages": ["1.4 TFSI Sport"] },
+              { "engine": "1.8 TFSI", "packages": ["1.8 TFSI"] },
+              { "engine": "2.0 TDI", "packages": ["2.0 TDI"] },
+              { "engine": "2.0 TDI Quattro", "packages": ["2.0 TDI Quattro"] },
+              { "engine": "2.0 TDI Quattro Design", "packages": ["2.0 TDI Quattro Design"] },
+              { "engine": "2.0 TDI Quattro Dynamic", "packages": ["2.0 TDI Quattro Dyanmic"] },
+              { "engine": "2.0 TDI Quattro Sport", "packages": ["2.0 TDI Quattro Sport"] },
+              { "engine": "2.0 TFSI", "packages": ["2.0 TFSI"] },
+              { "engine": "2.0 TFSI Quattro Sport", "packages": ["2.0 TFSI Quattro Sport"] },
+              { "engine": "3.0 TDI", "packages": ["3.0 TDI"] }
+            ]}
+          ]
+        },
+
+        {
+          "model": "A6",
+          "variants": [
+            { "variant": "A6 Sedan", "engines": [
+              { "engine": "40 TDI", "packages": ["Quattro Advanced", "Quattro S Line", "Design", "Quattro Design", "Sport", "Quattro Sport"] },
+              { "engine": "45 TFSI", "packages": ["Quattro Advanced", "Quattro Design", "Quattro S Line", "Quattro Sport"] },
+              { "engine": "50 TDI", "packages": ["Quattro Advanced", "Quattro Design", "Quattro Sport"] },
+              { "engine": "55 TFSI", "packages": ["E-Quattro S Line"] },
+              { "engine": "1.8T", "packages": ["1.8T", "Advanced", "Quattro", "Quattro Advanced"] },
+              { "engine": "1.9 TDI" },
+              { "engine": "2.0" },
+              { "engine": "2.0 Quattro" },
+              { "engine": "2.0 TDI" },
+              { "engine": "2.0 TDI Quattro" },
+              { "engine": "2.0 TFSI" },
+              { "engine": "2.0 TFSI Quattro" },
+              { "engine": "2.4" },
+              { "engine": "2.4 Quattro" },
+              { "engine": "2.5 TDI" },
+              { "engine": "2.5 TDI Quattro" },
+              { "engine": "2.6" },
+              { "engine": "2.7 TDI" },
+              { "engine": "2.7 TDI Quattro" },
+              { "engine": "2.7 T Quattro" },
+              { "engine": "2.8", "packages": ["2.8", "Quattro"] },
+              { "engine": "3.0" },
+              { "engine": "3.0 Quattro" },
+              { "engine": "3.0 TDI Quattro" },
+              { "engine": "3.0 TFSI Quattro" },
+              { "engine": "3.2 FSI Quattro" }
+            ]},
+            { "variant": "A6 Avant", "engines": [
+              { "engine": "40 TDI", "packages": ["Quattro Design", "Quattro Sport"] },
+              { "engine": "45 TFSI", "packages": ["Quattro S Line", "Quattro Sport"] },
+              { "engine": "1.9 TDI" },
+              { "engine": "2.0" },
+              { "engine": "2.0 TDI" },
+              { "engine": "2.0 TDI Quattro" },
+              { "engine": "2.4" },
+              { "engine": "2.5 TDI" },
+              { "engine": "2.5 TDI Quattro" },
+              { "engine": "2.7 TDI" },
+              { "engine": "2.7 TDI Quattro" },
+              { "engine": "2.8" },
+              { "engine": "2.8 Quattro" },
+              { "engine": "3.0 TDI Quattro" }
+            ]},
+            { "variant": "A6 Allroad Quattro", "engines": [
+              { "engine": "40 TDI", "packages": ["40 TDI"] },
+              { "engine": "2.5 TDI", "packages": ["2.5 TDI"] },
+              { "engine": "2.7 T", "packages": ["2.7 T"] },
+              { "engine": "2.7 TDI", "packages": ["2.7 TDI"] },
+              { "engine": "3.0 TDI", "packages": ["3.0 TDI"] },
+              { "engine": "4.2 FSI", "packages": ["4.2 FSI"] }
+            ]},
+            { "variant": "A6 E-Tron", "engines": [
+              { "engine": "A6 E-Tron Avant", "packages": ["Standart"] },
+              { "engine": "A6 E-Tron Sportback", "packages": ["Performance", "Standart"] }
+            ]}
+          ]
+        },
+
+        {
+          "model": "A7",
+          "trims": ["40 TDI", "45 TFSI", "50 TDI", "2.0 TFSI", "3.0 TDI"]
+        },
+        {
+          "model": "A8",
+          "trims": [
+            "50 TDI: Quattro",
+            "50 TDI: Quattro Long",
+            "55 TFSI: Quattro Long",
+            "60 TFSI: Quattro Long",
+            "2.0 TFSI Quattro",
+            "2.5 TDI",
+            "3.0",
+            "3.2 FSI",
+            "4.0 TDI Quattro",
+            "4.0 TFSI Quattro",
+            "4.2: FSI Quattro",
+            "4.2: Quattro",
+            "4.2: Quattro Long",
+            "4.2 TDI: Quattro",
+            "4.2 TDI: Quattro Long",
+            "6.3 FSI Quattro"
+          ]
+        },
+        {
+          "model": "E-Tron GT",
+          "trims": ["GT Quattro", "GT RS"]
+        },
+        {
+          "model": "R8",
+          "engines": [
+            { "engine": "4.2 FSI", "packages": ["Quattro", "Quattro R-tronic"] },
+            { "engine": "5.2 FSI Quattro R-tronic" }
+          ]
+        },
+        {
+          "model": "RS",
+          "trims": ["RS 3", "RS 4", "RS 6", "RS 7"]
+        },
+        {
+          "model": "S Serisi",
+          "variants": [
+            { "variant": "S3", "trims": ["1.8 Quattro", "2.0 TFSI Quattro"] },
+            { "variant": "S4", "trims": ["3.0 TFSI Quattro"] },
+            { "variant": "S5", "trims": ["3.0 TFSI Quattro", "4.2 FSI Quattro"] },
+            { "variant": "S6", "trims": ["3.0 TDI Quattro", "4.2 Quattro"] },
+            { "variant": "S6 E-Tron", "trims": ["S6 Avant"] },
+            { "variant": "S7", "trims": ["3.0 TDI"] },
+            { "variant": "S8", "trims": ["4.0 TFSI Quattro", "5.2 Quattro"] }
+          ]
+        },
+        {
+          "model": "TT",
+          "engines": [
+            { "engine": "1.8", "packages": ["1.8 T", "T Quattro"] },
+            { "engine": "2.0", "packages": ["TFSI", "TFSI Quattro", "TFSI S Quattro"] },
+            { "engine": "2.5 TFSI", "packages": ["RS Coupe"] }
+          ]
+        },
+        {
+          "model": "TTS",
+          "engines": [
+            { "engine": "2.0 TFSI", "packages": ["2.0 TFSI", "Quattro"] }
+          ]
+        },
+        {
+          "model": "80 Serisi",
+          "trims": ["1.6", "1.6 D", "1.6 TD", "1.8", "1.8 S", "1.9 TDI", "2.0", "2.8"]
+        },
+        {
+          "model": "100 Serisi",
+          "trims": ["1.9", "2.0", "2.8 Quattro"]
+        },
+        {
+          "model": "200 Serisi",
+          "trims": ["2.2"]
+        }
+      ]
+    },
+    {
+      "brand": "Bentley",
+      "models": [
+        {
+          "model": "Continental",
+          "variants": [
+            { "variant": "Flying Spur", "note": "tek model" },
+            { "variant": "Flying Spur Speed", "note": "tek model" },
+            { "variant": "GT", "note": "tek model" },
+            { "variant": "GTC", "note": "tek model" },
+            { "variant": "GT Speed", "note": "tek model" },
+            { "variant": "GT Supersports", "note": "tek model" }
+          ]
+        },
+        {
+          "model": "Flying Spur",
+          "engines": [
+            { "engine": "4.0", "note": "tek paket" },
+            { "engine": "6.0", "note": "tek paket" }
+          ]
+        },
+        {
+          "model": "Mulsanne",
+          "engines": [
+            { "engine": "6.75", "note": "tek paket" }
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "BMW",
+      "models": [
+        {
+          "model": "1 Serisi",
+          "engines": [
+            {
+              "engine": "116d",
+              "packages": [
+                "Standart",
+                "Comfort",
+                "First Edition Luxery Line",
+                "First Edition M Sport",
+                "First Edition Sport Line",
+                "Joy",
+                "Joy Plus",
+                "M PLus",
+                "M Sport",
+                "One Edition",
+                "Premium Line",
+                "Pure",
+                "Sport Line",
+                "Sport Plus",
+                "Urban Line"
+              ]
+            },
+            {
+              "engine": "116d ED",
+              "packages": [
+                "EfficientDynamics",
+                "Joy",
+                "Joy Plus",
+                "Sport Line",
+                "Urban Plus"
+              ]
+            },
+            {
+              "engine": "116i",
+              "packages": [
+                "Standart",
+                "Advantage",
+                "Comfort",
+                "Joy Edition",
+                "M Sport",
+                "Premium",
+                "Pure",
+                "Sport",
+                "Sport Edition",
+                "Sport Line",
+                "Technology",
+                "Urban Line"
+              ]
+            },
+            { "engine": "118d", "note": "tek paket" },
+            {
+              "engine": "118i",
+              "packages": [
+                "Standart",
+                "Advantage",
+                "Comfort",
+                "First Edition M Sport",
+                "First Edition Sport Line",
+                "Joy",
+                "Joy Plus",
+                "M Plus",
+                "M Sport",
+                "One Edition",
+                "One Edition M",
+                "Premium",
+                "Premium Line",
+                "Pure",
+                "Sport Line",
+                "Sport Plus",
+                "Urban Line",
+                "Urban Plus"
+              ]
+            },
+            {
+              "engine": "120",
+              "packages": ["M Sport", "Sport Line"]
+            },
+            { "engine": "120d", "note": "tek paket" },
+            {
+              "engine": "120i",
+              "packages": ["M Sport", "Standart", "M Plus"]
+            },
+            { "engine": "128ia", "note": "tek paket" },
+            {
+              "engine": "128ti",
+              "packages": ["Heritage"]
+            },
+            { "engine": "130i", "note": "tek paket" },
+            { "engine": "135i", "note": "tek paket" }
+          ]
+        },
+        {
+          "model": "2 Serisi",
+          "variants": [
+            {
+              "variant": "216 Active Tourer",
+              "packages": [
+                "Active Tourer",
+                "Luxuxry Line",
+                "M Sport",
+                "Premium Line",
+                "Prestige",
+                "Sport Line"
+              ]
+            },
+            {
+              "variant": "216d Gran Coupe",
+              "packages": [
+                "First Edition Luxury Line",
+                "First Edition M Sport",
+                "First Edition Sport Line",
+                "M Sport",
+                "Sport Line"
+              ]
+            },
+            {
+              "variant": "216d Gran Tourer",
+              "packages": [
+                "Gran Tourer",
+                "Joy",
+                "Luxury Line",
+                "Luxury Plus",
+                "Sport Line"
+              ]
+            },
+            {
+              "variant": "218i",
+              "packages": ["Luxury Line", "M Sport", "Prestige", "Sport Line"]
+            },
+            {
+              "variant": "218i Active Tourer",
+              "packages": [
+                "Active Tourer",
+                "Luxury Line",
+                "Luxury Plus",
+                "M Sport",
+                "Sport Line",
+                "Sport Plus"
+              ]
+            },
+            {
+              "variant": "218i Gran Coupe",
+              "packages": [
+                "First Edition Luxury Line",
+                "First Edition M Sport",
+                "First Edition Sport Line",
+                "Luxury Line",
+                "M Sport",
+                "Sport Line"
+              ]
+            },
+            { "variant": "218i Gran Tourer", "packages": ["Gran Tourer"] },
+            { "variant": "220d", "packages": ["Standart", "M Sport"] },
+            { "variant": "220 Gran Coupe", "packages": ["M Sport", "Sportline"] },
+            { "variant": "220i Active Tourer", "packages": ["Luxury Line", "M Sport"] },
+            { "variant": "230e xDrive Active Tourer", "packages": ["Luxury Line", "M Sport"] }
+          ]
+        },
+        {
+          "model": "3 Serisi",
+          "variants": [
+            { "variant": "315", "note": "tek paket" },
+            { "variant": "316", "note": "tek paket" },
+            { "variant": "316Ci", "note": "tek paket" },
+            {
+              "variant": "316i",
+              "packages": [
+                "Standart",
+                "Advantage",
+                "Comfort",
+                "Compact",
+                "Exclusive",
+                "Lifestyle Edition",
+                "Luxury Line",
+                "Modern Line",
+                "M Sport",
+                "Premium",
+                "Sport",
+                "Sport Line",
+                "Technology",
+                "Technology Plus",
+                "Touring"
+              ]
+            },
+            { "variant": "316ti", "packages": ["Compact"] },
+            { "variant": "318Ci", "note": "tek paket" },
+            {
+              "variant": "318d",
+              "packages": [
+                "Standart",
+                "Touring",
+                "Luxury Plus",
+                "M Plus",
+                "Premium",
+                "Prestige",
+                "Pure",
+                "Sport Plus",
+                "40th Year Edition"
+              ]
+            },
+            {
+              "variant": "318i",
+              "packages": [
+                "Standart",
+                "Edition Luxury Line",
+                "Edition M Sport",
+                "Edition M Sport Executive",
+                "Edition Sport Line",
+                "Joy",
+                "Luxury Plus",
+                "M Joy",
+                "M Joy Plus",
+                "M Plus",
+                "M Sport",
+                "Premium Line",
+                "Prestige",
+                "Sport Plus",
+                "Touring",
+                "40th Year Edition"
+              ]
+            },
+            { "variant": "318is", "note": "tek paket" },
+            { "variant": "318tds", "packages": ["Standart"] },
+            { "variant": "318ti", "packages": ["Compact"] },
+            { "variant": "320Ci", "note": "tek paket" },
+            {
+              "variant": "320d",
+              "packages": [
+                "Standart",
+                "Advantage",
+                "Comfort",
+                "Edition Comfort",
+                "Edition M Sport",
+                "Edition Sport Line",
+                "Luxury",
+                "Modern Line",
+                "M Sport",
+                "Premium",
+                "Premium Line",
+                "Prestige",
+                "Sport",
+                "Sport Line",
+                "Style",
+                "Technology",
+                "Techno Plus",
+                "Touring",
+                "40th Year Edition"
+              ]
+            },
+            {
+              "variant": "320d GT",
+              "packages": ["Gran Turismo", "Luxury", "Sport Line"]
+            },
+            {
+              "variant": "320d xDrive",
+              "packages": [
+                "Standart",
+                "Advantage",
+                "Comfort",
+                "Edition Luxury Line",
+                "Edition M Sport",
+                "Luxury Line",
+                "Modern Line",
+                "M Sport",
+                "Premium",
+                "Premium Line",
+                "Prestige",
+                "Sport",
+                "Sport Line",
+                "Sport Plus",
+                "Techno Plus",
+                "Touring M Sport",
+                "40th Year Edition"
+              ]
+            },
+            {
+              "variant": "320d xDrive GT",
+              "packages": ["Gran Turismo", "Luxury", "Modern Line", "M Sport", "Premium", "Prestige", "Sport Line", "Techno Plus"]
+            },
+
+            {
+              "variant": "320i",
+              "packages": [
+                "320i",
+                "Edition M Sport",
+                "Executive M Sport",
+                "50 Jahre Edition",
+                "50th Year M Edition",
+                "Cabrio",
+                "First Edition Luxury Line",
+                "First Edition Sport Line",
+                "First Edition M Sport",
+                "Gran Turismo",
+                "Luxury Line",
+                "M Sport",
+                "Premium",
+                "Sport Line",
+                "Touring"
+              ]
+            },
+
+            {
+              "variant": "320i ED",
+              "packages": [
+                "40th Year Edition",
+                "Edition",
+                "Luxury Line",
+                "Luxury Line Plus",
+                "Luxury M Plus",
+                "Modern Line",
+                "Modern Line Plus",
+                "M Plus",
+                "M Sport",
+                "Sport Line",
+                "Sport Plus",
+                "Standart",
+                "Techno Plus"
+              ]
+            },
+
+            { "variant": "320si", "note": "tek paket" },
+            { "variant": "320td", "packages": ["Compact"] },
+            { "variant": "323Ci", "note": "tek paket" },
+            { "variant": "323i", "packages": ["Standart"] },
+            { "variant": "324d", "note": "tek paket" },
+            { "variant": "325Ci", "note": "tek paket" },
+
+            { "variant": "325i", "packages": ["Standart", "Cabrio", "Touring"] },
+            { "variant": "325i xDrive", "packages": ["Standart"] },
+            { "variant": "325tds", "packages": ["Standart", "Touring"] },
+            { "variant": "325xi", "packages": ["Standart"] },
+
+            { "variant": "328Ci", "note": "tek paket" },
+            { "variant": "328i", "packages": ["328i", "Luxury Line", "M Sport", "Sport Line"] },
+            { "variant": "328i xDrive", "packages": ["328i"] },
+
+            { "variant": "330Cd", "note": "tek paket" },
+            { "variant": "330Ci", "note": "tek paket" },
+            { "variant": "330d", "packages": ["Standart", "M Sport", "Touring"] },
+            { "variant": "330i", "packages": ["Standart", "Edition Sport Line", "M Sport"] },
+            { "variant": "330i xDrive", "packages": ["Edition M Sport", "M Sport"] },
+            { "variant": "330xd", "packages": ["Standart", "Touring"] },
+            { "variant": "330xi", "packages": ["Standart"] },
+
+            { "variant": "335d", "note": "tek paket" },
+            { "variant": "335i", "packages": ["Standart"] },
+
+            { "variant": "340d xDrive", "packages": ["Touring M Sport"] },
+            { "variant": "340i xDrive", "packages": ["340i x drive"] }
+          ]
+        },
+        {
+          "model": "4 Serisi",
+          "variants": [
+            { "variant": "418d", "packages": ["M Plus"] },
+            { "variant": "418d Gran Coupe", "packages": ["Prestige", "Sport Plus", "Ultimate M Sport"] }
+          ]
+        }
+
+      ]
+    }
+
+
+  ]
+}
