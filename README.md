@@ -1,26 +1,26 @@
-# FIRSAT - Mobil İstemci (iOS & Android) 📱🚗
+# FIRSAT - Mobil İstemci (iOS & Android)
 
 ![Flutter](https://img.shields.io/badge/Flutter-3.x-blue) ![Dart](https://img.shields.io/badge/Dart-Language-0175C2) ![Architecture](https://img.shields.io/badge/Architecture-RESTful%20JSON-orange) ![Accessibility](https://img.shields.io/badge/Accessibility-WCAG%202.1%20AA-brightgreen)
 
 FIRSAT Mobil İstemcisi, araç alıcılarını (Client) ve galeri mağazalarını (Store) bir araya getiren yüksek performanslı, çapraz platform bir uygulamadır. Tek bir Dart kod tabanıyla hem iOS (14.0+) hem de Android (8.0+) için derlenmektedir.
 
-## 🌟 Rol Bazlı Özellik Seti
+## Rol Bazlı Özellik Seti
 
 Platform, giriş yapan kullanıcının JWT rolüne (`ROLE_GUEST`, `ROLE_CLIENT`, `ROLE_STORE`, `ROLE_ADMIN`) göre arayüzü dinamik olarak yapılandırır.
 
-### 👤 Müşteriler (Client) İçin:
+### Müşteriler (Client) İçin:
 *   **Milisaniyelik Araç Arama:** Elasticsearch altyapısına bağlı anlık filtreleme (Marka, model, donanım, km, fiyat).
 *   **Yapay Zeka Destekli Öneriler:** `SentenceTransformer` modeli üzerinden, kullanıcı yolculuğuna (collaborative filtering) özel araç önerileri.
 *   **Favori & Fiyat Takibi:** İlanları favoriye alma ve fiyat düşüşlerinde RabbitMQ destekli anlık bildirim alma.
 *   **Güvenli İletişim:** Satıcı galerilerle AES-256 standartlarında şifrelenmiş uygulama içi mesajlaşma. Modere edilmiş temiz içerik alanı.
 
-### 🏢 Galeri Mağazaları (Store) İçin:
+### Galeri Mağazaları (Store) İçin:
 *   **İlan Yönetimi:** Cepten hızlı araç ilanı oluşturma, yayına alma ve pasifleştirme.
 *   **Yapay Zeka Açıklama Üretici:** Araç özelliklerini seçerek saniyeler içinde NLP modelinden profesyonel Türkçe ilan açıklaması alma.
 *   **Finans & Analitik Dashboard:** Araç bazlı kâr/zarar hesaplama modülü; ilanların gösterim ve favoriye eklenme istatistikleri.
 *   **Abonelik Yönetimi:** Sistem içi sıralamayı (Ranking Queue) etkileyen paketlerin (PRO, PLUS vb.) takibi ve yönetimi.
 
-## 🎨 UI/UX Tasarım ve Performans Mimarisi
+## UI/UX Tasarım ve Performans Mimarisi
 
 Uygulama, Nielsen'ın yanıt süresi eşiklerine göre dizayn edilmiştir:
 *   **Anlık Tepkime (<100ms):** Favori ekleme ve beğeniler gibi işlemlerde kullanıcıya bekleme hissi vermemek adına **Optimistic UI** (Anında arayüz güncellemesi, arka planda API çağrısı) uygulanır.
@@ -28,13 +28,13 @@ Uygulama, Nielsen'ın yanıt süresi eşiklerine göre dizayn edilmiştir:
 *   **Hata Yönetimi ve Kurtarma:** Token Bucket limitleri aşıldığında veya ağ bağlantısı koptuğunda "Offline Banner", "Otomatik Yeniden Deneme (Exponential Backoff)" ve detaylı hata kurtarma mesajları sunulur.
 *   **Erişilebilirlik:** WCAG 2.1 AA standartlarına uygun renk kontrastları ve `aria-label` destekli komut etiketleme stratejisi.
 
-## 🔒 Güvenlik
+## Güvenlik
 
 *   **Stateless İletişim:** Tüm istekler HTTPS (TLS 1.2+) üzerinden, JSON gövdesine gömülmüş (veya header'da iletilen) Access (15 dk) ve Refresh Token (7 gün) ikilisi ile atılır.
 *   **Güvenli Depolama (Secure Storage):** Hassas oturum verileri iOS'ta Keychain, Android'de EncryptedSharedPreferences ile saklanır.
 *   **Mobil Özgü Koruma:** Mobil uygulama durumsuz (stateless) olduğu için CSRF token zorunluluğu barındırmaz.
 
-## 🛠 Kurulum ve Build Talimatları
+## Kurulum ve Build Talimatları
 
 1.  Flutter SDK ortamını hazırlayın.
 2.  Depoyu klonlayıp bağımlılıkları yükleyin:
